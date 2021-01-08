@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Guillermo Hidalgo Gadea
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Ruhr-University Bochum
+  url: https://www.bio.psy.ruhr-uni-bochum.de/members_guillermo.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include embodied cognition, animal behavior and learning.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Embodied Cognition
+- Cognitive Neuroscience
+- Computational Neuroethology
+- Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Psychology
+    institution: Ruhr-University Bochum
+    year: since 2020
+  - course: MSc in Psychological Research Methods
+    institution: University of Stirling
+    year: 2019
+  - course: BSc in Psychology
+    institution: University of Wuppertal
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,23 +46,19 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/g_hidalgogadea?
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Cb42f0cAAAAJ&hl=de
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7174-0530
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
+  link: https://github.com/Guillermo-Hidalgo-Gadea
+- icon: researchgate
   icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+  link: https://www.researchgate.net/profile/Guillermo_Hidalgo_Gadea
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,9 +66,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+Guillermo Hidalgo Gadea is a PhD student of embodied cognition, animal behavior and learning in pigeons at the Institute of Cognitive Neuroscience in Bochum. His research interests include comparative psychology, computational neuroethology and machine learning.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+His research has employed a variety of methods, including behavioral experiments in non-human primates and physiological signal processing in humans for fatigue and discomfort detection. He has successfully applied frequentist and bayesian analysis methods as well as neural networks and unsupervised machine learning approaches.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Guillermo's PhD project is currently funded by the Deutsche Forschungsgemeinschaft (DFG) Research Training Group Situated Cognition - grant number GRK-2185.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
