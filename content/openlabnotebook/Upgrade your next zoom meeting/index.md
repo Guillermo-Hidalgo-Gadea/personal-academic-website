@@ -94,8 +94,6 @@ Check my {{< icon name="python" pack="fab" >}}[Python script](https://github.com
 
 You may even want to analyze the raw coordinates to calculate kinematics like head movement and speed. You could try to find similarities and differences between the facial expressions, as well as finding order in a typical sequence of facial expressions.
 
-{{< figure src="timeseries.png" >}}
-
 {{< figure src="kinematics.png" >}}
 
 Last but not least, I recommend you count the absolute and relative frequency of each facial expression to have an idea of how often you are doing that specific weird face in zoom meetings.
