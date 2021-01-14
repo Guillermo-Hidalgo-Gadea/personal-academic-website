@@ -43,15 +43,6 @@ categories:
 During the past year we have all been using zoom, webex and skype to keep up with work, meetings or classes. Most of us probably more frequently and in longer sessions than we would have preferred. Those of us using the camera during virtual meetings will have noticed one thing: our own face video, incessantly looking back at us. More often than not looking quite weird, honestly. Do we always look like that? Let’s find out.
 With this short guide you can upgrade your next zoom meeting with some facial expression analysis to check your most common faces when you are talking to your computer.  
 
-```mermaid
-graph TD;
-  Face-Video-->DeepLabCut;
-  DeepLabCut-->Anipose;
-  DeepLabCut-->Hidden-Markov-Model;
-  Anipose-->Hidden-Markov-Model;
-  Hidden-Markov-Model-->Facial-Expression
-```
-
 Technically, you will only need a simple face video recorded with your smartphone, action cam or a webcam. To make things more interesting though, I used a synchronized two-camera setup for multi-view recording and 3D reconstruction. But you can keep your analysis 2D changing only a few parameters along the road.
 
 {{< video src="video.mp4" controls="false" autoplay="true" >}}
