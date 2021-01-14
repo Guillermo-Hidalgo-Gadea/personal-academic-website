@@ -76,7 +76,7 @@ from hmmlearn import hmm
 
 model = hmm.GaussianHMM(n_components = 9, covariance_type="full") 
 model.fit(data)
-prediction = model1.predict(data)
+prediction = model.predict(data)
 ```
 
 Check my {{< icon name="python" pack="fab" >}}[Python script](https://github.com/Guillermo-Hidalgo-Gadea/UQOAB/tree/main/Facial%20Expression%20Analysis) to follow along. You can then classify your own time series data with the newly trained HMM to extract the most conspicuous facial expressions from you video. From here on, the sky is the limit. You may want to check some great work in computational neuroethology for some inspiration ([Luxem et al., 2020](https://doi.org/10.1101/2020.05.14.095430); [Marshall et al., 2021](https://doi.org/10.1016/j.neuron.2020.11.016)). But for starters, it may be useful to plot the average facial expression in each class:
