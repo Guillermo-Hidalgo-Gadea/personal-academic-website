@@ -13,5 +13,5 @@ view: 2
 header: 
   caption: 
   image: "library.jpg"
-
+  preview_only: true
 ---
