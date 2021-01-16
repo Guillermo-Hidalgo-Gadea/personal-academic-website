@@ -25,51 +25,51 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://courses.edx.org/certificates/113ec92be73f4f7081f93834a4328e8b
-  date_end: "2020-07-01"
-  date_start: ""
+  date_end: ""
+  date_start: "2020-07-01"
   description: ""
   organization: HarvardX
   organization_url: 
   title: Python for Research
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/UDK9GGDJY9BP
-  date_end: "2020-05-01"
-  date_start: ""
+  date_end: ""
+  date_start: "2020-05-01"
   description: 
   organization: Stanford online
   organization_url: 
   title: Machine Learning
   url: 
 - certificate_url: https://courses.edx.org/certificates/85b0461693fe421bb7d88124f5436ee6
-  date_end: "2020-04-01"
-  date_start: ""
+  date_end: ""
+  date_start: "2020-04-01"
   description: ""
   organization: HarvardX
   organization_url: 
   title: Fundamentals in Neuroscience
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/PFQRLG26DRK8
-  date_end: "2020-04-01"
-  date_start: ""
+  date_end: ""
+  date_start: "2020-04-01"
   description: ""
   organization: University of London
   organization_url: 
   title: Probability and Statistics
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/KEXVVWCKFY32
-  date_end: "2020-04-01"
-  date_start: ""
+  date_end: ""
+  date_start: "2020-04-01"
   description: ""
   organization: University of Edinburgh
   organization_url: 
   title: Philosophy of Cognitive Sciences
   url: ""
 - certificate_url: https://1drv.ms/u/s!AjzdYBDcXokchoF87Qh72yNikUG86A?e=aiOtZp
-  date_end: "2016-07-01"
-  date_start: ""
+  date_end: ""
+  date_start: "2016-07-01"
   description: ""
   organization: German Fitness & Aerobic Association
   organization_url: 
-  title: Fitness Instructur (B certification) 
+  title: Fitness Instructur B Certification
   url: ""
 ---

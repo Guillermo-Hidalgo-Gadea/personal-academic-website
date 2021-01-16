@@ -35,7 +35,7 @@ education:
   - course: BSc in Psychology
     institution: University of Wuppertal
     year: 2017
-  - course: Abitur German & Spanish 
+  - course: Abitur German/Spanish 
     institution: Deutsche Schule Barcelona
     year: 2011
 
