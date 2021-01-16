@@ -14,4 +14,12 @@ header:
   caption: 
   image: "library.jpg"
   preview_only: true
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 
+  focal_point: ""
+  placement: 2
+  preview_only: true
 ---
