@@ -1,5 +1,7 @@
 ---
 title: Publications
+
+
 # View.
 #   1 = List
 #   2 = Compact
@@ -20,3 +22,4 @@ image:
   placement: 2
   preview_only: false
 ---
+## Filter publications 
