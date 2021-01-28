@@ -16,7 +16,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2005
+date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -24,8 +24,8 @@ date_format: Jan 2005
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://1drv.ms/b/s!AjzdYBDcXokchoJ2u4i3ImqiBm53nw?e=QEdzKP
-  date_end:""
+- certificate_url: https://1drv.ms/b/s!AjzdYBDcXokchoJ2u4i3ImqiBm53nw?e=QEdzKP/
+  date_end: ""
   date_start: "2021-01-27"
   description: ""
   organization: Purdue University
@@ -38,7 +38,7 @@ item:
   description: ""
   organization: Udemy
   organization_url: 
-  title: Deep Learning
+  title: Deep Learning (Python)
   url: ""
 - certificate_url: https://courses.edx.org/certificates/113ec92be73f4f7081f93834a4328e8b
   date_end: ""
@@ -54,7 +54,7 @@ item:
   description: 
   organization: Stanford online
   organization_url: 
-  title: Machine Learning
+  title: Machine Learning (Matlab)
   url: 
 - certificate_url: https://courses.edx.org/certificates/85b0461693fe421bb7d88124f5436ee6
   date_end: ""
@@ -86,6 +86,6 @@ item:
   description: ""
   organization: German Fitness & Aerobic Association
   organization_url: 
-  title: Fitness Instructur B Certification
+  title: Fitness Instructor B Certification
   url: ""
 ---
