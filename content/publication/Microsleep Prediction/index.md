@@ -45,7 +45,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://www.tandfonline.com/doi/abs/10.1080/00140139.2021.1882707'
-url_code: ''
+url_code: 'https://doi.org/10.5281/zenodo.4473260'
 url_dataset: ''
 url_poster: ''
 url_project: ''
