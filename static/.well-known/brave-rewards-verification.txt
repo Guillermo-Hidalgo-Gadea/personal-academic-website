@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: guillermohidalgogadea.com
+Token: e93886e7d4de8ef09e4ec162317ee5f0458d7e8ef9255b0cd53412f23ed22664
