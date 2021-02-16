@@ -75,6 +75,7 @@ conda env list
 conda activate DLC-CPU
 ```
 
+See as short video demo: 
 {{< youtube yarI_m9F7VU >}}
 
 
@@ -87,6 +88,7 @@ pip install deeplabcut==2.2b8
 pip install -U wxPython==4.0.7
 ```
 
+See as short video demo: 
 {{< youtube 8sfb0Qi2Hd0 >}}
 
 ### Starting DeepLabCut
