@@ -109,7 +109,7 @@ conda activate DLC-CPU
 python -m deeplabcut
 ```
 
-Alternatively, you can also start a {{< icon name="python" pack="fab" >}} PythonW (macOS) or an IPython (Windows) shell and start DeepLabCut with the following python command we will be using in our next jupyter notebooks:
+Alternatively, you can also start a {{< icon name="python" pack="fab" >}} PythonW (macOS) or an IPython (Windows) shell and start DeepLabCut with the following python command:
 
 ```python
 import deeplabcut
