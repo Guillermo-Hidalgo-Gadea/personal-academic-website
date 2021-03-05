@@ -1,5 +1,5 @@
 ---
-title: How to keep your Python code tidy with 4 easy tips
+title: How to keep your Python code tidy with these 4 easy tips
 subtitle: Defining functions, classes, modules and config files to standardize your workflow in python. 
 
 # Summary for listings and search engines
@@ -41,20 +41,22 @@ categories:
 ---
 
 
-Those of us using python for data science without a solid programming background may agree that working code is good-enough code. But good enough may depend on how many times you are going to use it, and how much effort you will have to put into deciphering it in the future. Your perfectly working code can get very long very quickly and, loosing track of what part of your code was doing what is only natural. I will share 4 easy tips that will help keep your code clean. Let’s get started. 
+Those of us using python for data science without a solid programming background may agree that working code is good-enough code. But good enough may depend on how many times you are going to use it, and how much effort you will have to put into deciphering it in the future. Your perfectly working code can get very long very quickly, and loosing track of what part of your code was doing what is only natural. I will share 4 easy tips that will help keep your code clean. Let’s get started. 
 
-### Upgrade your python code with functions, classes, modules and config files
-When parts of your code are repeated and used several times, it is useful to wrap these sections up as **functions**. These functions have to be defined once at the beginning and can be later called repeatedly in your code in a single, very informative line.
-If these functions get somewhat bigger, and especially when they need several arguments or are even nested, it may be useful to define a **class** instead, with specific attributes and methods.
-A further problem with an unclear script structure appears when you need to input hardcoded parameters directly into the source code (e.g., file paths). A very handy trick to make your life easier in the future, and also help out colleagues that may want to use your code, is to bundle and outsource hardcoded parameters to a separate **config file** (e.g., yaml). This file will contain all parameters that need to be adapted and will be 'human readable' (for those not used to read code). Last but not least, you can also outsource classes and functions to other python files and load them as **modules** in your tidy and manageable script.
+### Do I need functions, classes, modules and config files?
+When parts of your code are repeated several times, it is useful to wrap these sections up as **functions**. These functions have to be defined once at the beginning of your script and can be called repeatedly in your code in a single, very informative line.
+If these functions get too big, when they need several arguments or are even nested within each other, it may be useful to define a **class** instead, with specific attributes and methods.
 
+A further problem with an unclear script structure appears when you need to input hardcoded parameters directly into the source code (e.g., adapting file paths). A very handy trick to make your life easier in the future, and also help out colleagues that may want to use your code, is to bundle and outsource hardcoded parameters to a separate **config file** (e.g., yaml). This file will contain all parameters that need to be adapted beforehand and most of all, is 'human readable' for those not used to read code. Last but not least, you can keep on outsourcing classes and functions to separate python files and import them as **modules** in your now tidy and manageable script.
 
 ### Let’s start with an example: 
-I previously extracted 3D coordinates from synchronized face videos using [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut) and [Anipose](https://anipose.readthedocs.io/en/latest/) (check out the previous post on [facial expression analysis using unsupervised machine learning](https://guillermohidalgogadea.com/openlabnotebook/upgrade-your-next-zoom-meeting/)).
+In a previous example on [facial expression analysis using unsupervised machine learning](https://guillermohidalgogadea.com/openlabnotebook/upgrade-your-next-zoom-meeting/) I extracted 3D coordinates from synchronized face videos using [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut) and [Anipose](https://anipose.readthedocs.io/en/latest/).
+
 
 {{< youtube id="JaR1tO0EBnU" autoplay="true" >}}
 
-The following python script (1) reads a csv dataset (2) filters some variables, (3) builds a skeleton for each time frame connecting some body parts of interest, (4) creates 3D plots at every timeframe, and (5) creates a video of the skeleton over time. Although 67 lines may still be manageable, it is easy to lose track of each block when upscaling to the entire analysis pipeline, or even when repeating the code for a second dataset.
+
+Now, the following python script (1) reads the csv dataset (2) filters some variables, (3) builds a skeleton for each time frame by connecting some body parts of interest, (4) creates 3D plots at every timeframe, and (5) creates a video of the skeleton over time, as shown above. Although 67 lines of code may still be manageable, it is easy to lose track of each block when upscaling to the entire analysis pipeline, or even when repeating the code with a second, third and n<sup>th</sup> dataset.
 
 {{< icon name="python" pack="fab" >}} PoseAnalysis.py :
 <div style="overflow: auto; height:300pt; width:100%;">
@@ -65,7 +67,7 @@ import matplotlib.pyplot as plt
 import cv2
 
 # 1) Open data from csv filepath
-filepath = "/Users/guillermo/Documents/GitHub/UQOAB/Pose Analysis/pose-3d.csv"
+filepath = "/GitHub/UQOAB/Pose Analysis/pose-3d.csv"
 data = pd.read_csv(filepath, header=0)
 
 # 2) Filter body part coordinates and ignore other variables
@@ -126,7 +128,7 @@ out.release()
 </div>
 
 ### Tip 1: Define your own functions
-The first tip is probably the easiest: find functional blocks in your code, wrap them up as a function and move them to the top of your script. In your pipeline you will only need to call the function with the arguments you specified before. See at the bottom of the script:
+The first tip is probably the easiest: find functional blocks in your code, wrap them up as a function and move them to the top of your script. In your pipeline you will only need to call the function with the arguments you specified before. See an exmaple below, specifically the condensed part at the bottom of the script:
 
 {{< icon name="python" pack="fab" >}} PoseAnalysisTip1.py :
 <div style="overflow: auto; height:300pt; width:100%;">
@@ -198,7 +200,7 @@ def create_video_from_skeleton(data, elevation, azimuth):
     out.release()
 
 # 2) Open data from csv filepath
-filepath = "/Users/guillermo/Documents/GitHub/UQOAB/Pose Analysis/pose-3d.csv"
+filepath = "/GitHub/UQOAB/Pose Analysis/pose-3d.csv"
 data = pd.read_csv(filepath, header=0)
 
 # 3) Filter body part coordinates and ignore other variables
@@ -212,9 +214,10 @@ create_video_from_skeleton(data = skeletons, elevation = 10, azimuth = -90)
 ```
 </div>
 
-### Tip 2: Define your own classes, attributes and methods
-When you have functions that build upon each other like in this example, you can run them sequentially like above, or nested with the output of the first being the input of the second (e.g., ```create_video_from_skeleton(data = create_skeleton(data = coordinates), elevation = 10, azimuth = -90)```), which gets complex, quickly.
-An alternative would be to treat both as methods of the same class. For this we define a class Pose_3D with some attributes like the filepath it comes from, and even the filtered coordinates, and assign the functions defined before as methods for this class. In the pipeline below, you will only need to create an object of this class, and then apply the methods you need to the object.
+### Tip 2: Define your own classes with attributes and methods
+When you have functions that build upon each other like in this example, you can run them sequentially like above, or nested within each other with the output of the first function being the input of the second (e.g., ```create_video_from_skeleton(data = create_skeleton(data = coordinates), elevation = 10, azimuth = -90)```). But this nesting gets complex quickly.
+
+An alternative would be to treat both functions as methods of the same superprdinate class. For this, we define a class Pose_3D with some attributes like the filepath it comes from, and even its filtered coordinates, and assign the functions defined before as methods for the Pose_3D class. In the pipeline below, you will only need to create an object of this class, and then apply the methods you need to the object you created.
 
 {{< icon name="python" pack="fab" >}} PoseAnalysisTip2.py :
 <div style="overflow: auto; height:300pt; width:100%;">
@@ -294,7 +297,7 @@ class Pose_3D:
         out.release()
 
 # 2) Define csv filepath to open data
-filepath = "/Users/guillermo/Documents/GitHub/UQOAB/Pose Analysis/pose-3d.csv"
+filepath = "/GitHub/UQOAB/Pose Analysis/pose-3d.csv"
 
 # 3) Create pose object from class...
 pose = Pose_3D(filepath)
@@ -308,13 +311,14 @@ pose.create_video_from_skeleton(elevation = 10, azimuth = -80)
 </div>
 
 ### Tip 3: Outsource parameters to a separate config files
-Although the code is already quite compact and nested, you will have noticed that parameters like fielpath and the elevation and azimuth for the 3D plot are still hardcoded and may need to be changed for future analysis. This is only a brief example and you probably remember what you need to change in which line, but colleagues using your code may not be aware of where to find there variables quickly (try to imagine a script with hundreds of lines and several parameters to change at different parts of the code). 
-A trick that comes in handy is to outsource these parameters to a separate config file, and let the classes initialize their attributes by reading the config file themselves. This way, you only need to set your parameters in the config file and then run the code, without even looking at it and trying to find parameters to change.
+Although the code is already quite compact and nested, you will have noticed that parameters like *fielpath* and the *elevation* and *azimuth* for the 3D plot are still hardcoded and may need to be changed for future analysis. This is only a brief example and you probably remember what you need to change in which line, but colleagues using your code may not be aware of where to find these variables quickly (try to imagine a script with hundreds of lines and several parameters to change in different parts of the code). 
+
+A trick that comes in handy is to outsource these parameters to a separate config file, and let the classes initialize by reading their attributes from the config file themselves. This way, you only need to set your parameters in the config file and then run the code, without even looking at it and certainly not trying to find parameters to be changed.
 
 {{< icon name="file" pack="fas" >}} config.yaml :
 ```yaml
 # Change the Parameters needed for PoseAnalysis.py here:
-filepath: "/Users/guillermo/Documents/GitHub/UQOAB/Pose Analysis/pose-3d.csv"
+filepath: "/GitHub/UQOAB/Pose Analysis/pose-3d.csv"
 elevation: 10
 azimuth: -80
 ```
@@ -337,7 +341,7 @@ class Pose_3D:
         with open("config.yaml", "r") as file:
             config = yaml.safe_load(file) # read from config.yaml
 
-        self.filepath = config['filepath']
+        self.filepath = config['filepath'] # name of the parameter in config.yaml
         self.elevation = config['elevation']
         self.azimuth = config['azimuth']
         self.data = pd.read_csv(self.filepath, header=0)
@@ -434,7 +438,7 @@ pose.create_video_from_skeleton()
 {{< icon name="file" pack="fas" >}} config.yaml :
 ```yaml
 # Change the Parameters needed for PoseAnalysis.py here:
-filepath: "/Users/guillermo/Documents/GitHub/UQOAB/Pose Analysis/pose-3d.csv"
+filepath: "/GitHub/UQOAB/Pose Analysis/pose-3d.csv"
 elevation: 10
 azimuth: -80
 ```
