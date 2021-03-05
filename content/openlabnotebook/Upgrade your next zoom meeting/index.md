@@ -45,7 +45,7 @@ With this short guide you can upgrade your next zoom meeting with some facial ex
 
 Technically, you will only need a simple face video recorded with your smartphone, action cam or a webcam. To make things more interesting though, I used a synchronized two-camera setup for multi-view recording and 3D reconstruction. But you can keep your analysis 2D changing only a few parameters along the road.
 
-{{< video src="video.mp4" controls="false" autoplay="true" >}}
+{{< youtube id="MZmbhE77eWo" autoplay="true" >}}
 
 ## Using DeepLabCut for markerless tracking
 
@@ -63,7 +63,7 @@ After manually labelling some of the video frames you can start training your ow
 
 Although DeepLabCut has recently implemented its own 3D pose estimation, I recommend using Anipose for robust triangulation and 3D reconstruction. [**Anipose**](https://anipose.readthedocs.io/en/latest/) is an open source toolkit specially developed to combine several DeepLabCut videos from different perspectives and generate smooth 3D tracking after camera triangulation . If you managed to install DeepLabCut, installing Anipose should be an easy add on. Please check the installation guide and the how-to’s on their website.
 
-{{< video src="3D-pose.mp4" controls="false" autoplay="true" >}}
+{{< youtube id="Rf3u6kuPopo" autoplay="true" >}}
 
 The final product will hopefully look something like this. And in addition to the cool video output, you will have a long csv file with your time series data. Each line will consist of the x-, y- and z-coordinates of each marker on the given frame. This is the data you want to open in R for the last analysis step. 
 
