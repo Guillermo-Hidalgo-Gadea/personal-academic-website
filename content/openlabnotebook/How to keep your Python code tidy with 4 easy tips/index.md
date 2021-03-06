@@ -41,9 +41,9 @@ categories:
 ---
 
 
-Those of us using python for data science without a solid programming background may agree that working code is good-enough code. But good enough may depend on how many times you are going to use it, and how much effort you will have to put into deciphering it in the future. Your perfectly working code can get very long very quickly, and loosing track of what part of your code was doing what is only natural. I will share 4 easy tips that will help keep your code clean. Let’s get started. 
+Those of us using python for data science without a solid programming background may agree that working code is good-enough code. But good enough may depend on how many times you are going to use it, and how much effort you will have to put into deciphering it in the future. Your perfectly working code can get very long very quickly, and loosing track of what part of your code was doing what is only natural. I will share 4 easy tips that will help keep your code clean.
 
-### Do I need functions, classes, modules and config files?
+### Do I really need functions, classes, modules and config files in python?
 When parts of your code are repeated several times, it is useful to wrap these sections up as **functions**. These functions have to be defined once at the beginning of your script and can be called repeatedly in your code in a single, very informative line.
 If these functions get too big, when they need several arguments or are even nested within each other, it may be useful to define a **class** instead, with specific attributes and methods.
 
@@ -55,6 +55,7 @@ In a previous example on [facial expression analysis using unsupervised machine 
 
 {{< youtube id="JaR1tO0EBnU" autoplay="true" >}}
 
+# 
 
 Now, the following python script (1) reads the csv dataset (2) filters some variables, (3) builds a skeleton for each time frame by connecting some body parts of interest, (4) creates 3D plots at every timeframe, and (5) creates a video of the skeleton over time, as shown above. Although 67 lines of code may still be manageable, it is easy to lose track of each block when upscaling to the entire analysis pipeline, or even when repeating the code with a second, third and n<sup>th</sup> dataset.
 
