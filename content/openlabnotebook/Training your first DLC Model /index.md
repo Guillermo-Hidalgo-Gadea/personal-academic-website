@@ -45,17 +45,15 @@ Do you have the impression everyone but you is using DeepLabCut, and you start f
 For a quick guide on how to install DeepLabCut refer to the previous post: [Installing DeepLabCut - A three step guide](https://guillermohidalgogadea.com/openlabnotebook/installing-deeplabcut/). If you already have it installed, let’s go.
 
 ## What you will need
-You will need a computer with DeepLabCut installed (no GPU needed), as well as a working google account with some space left in your google drive. If you want to start right away you will find demo data and code [here](https://github.com/Guillermo-Hidalgo-Gadea/UQOAB/tree/main/First%20DLC%20project), but it will be more fun if you bring your own videos and a preliminary idea of what you want to track. Here some examples:
-The original papers track movement and pose in mice and other animals ([Mathis et al., 2018]( https://www.nature.com/articles/s41593-018-0209-y)), but you can also track human facial expressions (see [here](https://guillermohidalgogadea.com/openlabnotebook/upgrade-your-next-zoom-meeting/)) or even the location of a coin during magic tricks (see [Zaghi-Lara et al., 2019](https://arxiv.org/abs/1908.07446)). It is *your first project*, do whatever you want! I’m excited to hear about it and see how it turned out.   
+You will need a computer with DeepLabCut installed (no GPU needed), as well as a working google account with some space left in your google drive. If you want to start right away you will find demo data and code [here](https://github.com/Guillermo-Hidalgo-Gadea/UQOAB/tree/main/First%20DLC%20project), but it will be more fun if you bring your own videos and a preliminary idea of what you want to track. The original papers track movement and pose in mice and other animals ([Mathis et al., 2018](https://www.nature.com/articles/s41593-018-0209-y)), but you can also track human facial expressions (see [here](https://guillermohidalgogadea.com/openlabnotebook/upgrade-your-next-zoom-meeting/)) or even the location of a coin during magic tricks (see [Zaghi-Lara et al., 2019](https://arxiv.org/abs/1908.07446)). It is *your first project*, do whatever you want! I’m excited to hear about it and see how it turns out.   
 
 ## What you will learn
 In this example you will train a machine learning model to read an analogue clock, just for the fun of automating things. More importantly, you will learn how to create a new project in DeepLabCut, how to label frames and how not to get lost in the project directory structure. You will also learn how to use python commands in a jupyter notebook and in google colab to train and evaluate your model. Last but not least, you will use your new model to analyze video data. How to process your output will be tackled in a separate post, but for now, enjoy your tracked videos.
 
-**Note:** This is only a beginners guide to help you get started. Apart from the python notebooks provided I can only recommend taking some time checking out these [DeepLabCut resources](https://github.com/DeepLabCut/DeepLabCut/blob/master/docs/functionDetails.md) on Github, specially for getting started with data analyses on your real data.
+**Note:** This is only a beginners guide to help you get started. Apart from the python notebooks provided I can only recommend taking some time checking out these [DeepLabCut resources](https://github.com/DeepLabCut/DeepLabCut/blob/master/docs/functionDetails.md) on Github, specially for getting started with analyses on your real data.
 
 # Let’s start with an example:
-DeepLabCut is all about tracking moving objects in video frames, and this example will be about tracking moving clock hands to read analogue clocks.
-The DeepLabCut toolbox can either be used through the user interface or with a list of python functions in a script, notebook or directly through the terminal. While the graphic user interface is easiest to start with, I believe that having an overview of the python functions used underneath the surface is essential for a clear understanding of the analysis process. Moreover, when it comes to moving the analysis to google colab to use their GPU in the cloud, a python notebook will be the only way to go. Therefore, combining both, the user interface and a set of python functions, from the beginning will be beneficial in the long run.
+DeepLabCut is all about tracking moving objects in video frames, and this example will be about tracking moving clock hands to read analogue clocks. The DeepLabCut toolbox can either be used through the user interface or with a list of python functions in a script, notebook or directly through the terminal. While the graphic user interface is easiest to start with, I believe that having an overview of the python functions used underneath the surface is essential for a clear understanding of the analysis process. Moreover, when it comes to moving the analysis to google colab to use their GPU in the cloud, a python notebook will be the only way to go. Therefore, combining both, the user interface and a set of python functions, from the very beginning will be really beneficial in the long run.
 
 For this project, I have collected 14 different stock videos from pexels.com and pixabay.com instead of using own videos of ticking clocks. The goal was to aim for a diverse dataset of different looking clocks, and I did not have so many hanging around.
 
@@ -63,13 +61,13 @@ For this project, I have collected 14 different stock videos from pexels.com and
 
 # 
 
-A typical DeepLabCut project consists of the following four steps:
+A typical DeepLabCut project consists of the following 4 steps:
 - creating a project and editing the config.yaml file
-- extracting and labeling a subsample of frames
+- extracting and labeling frames
 - training a model to learn your markers 
-- applying your model to analyze videos
+- analyze videos and extract coordinates
 
-This process can be expanded at will by evaluating the model, refining outlier labels, merging new frames and re-training the model. An overview of the whole process and the corresponding python commands can be found in the jupyter notebook provided as [Part I](https://github.com/Guillermo-Hidalgo-Gadea/UQOAB/blob/main/First%20DLC%20project/partI.ipynb). If you have a GPU on your machine, you can just follow those steps. Because this won’t be the case for most of us, at least at the beginning, we will work from a DLC-CPU environment and outsource the model training to a cloud computing environment in google colab. For this step you will need the colab notebook provided as [Part II](https://github.com/Guillermo-Hidalgo-Gadea/UQOAB/blob/main/First%20DLC%20project/partII.ipynb).
+This process can be expanded at will by evaluating the model after training, refining outlier labels, merging new frames and re-training the model several times. An overview of the whole process and the corresponding python commands can be found in the jupyter notebook provided as [Part I](https://github.com/Guillermo-Hidalgo-Gadea/UQOAB/blob/main/First%20DLC%20project/partI.ipynb). If you have a GPU on your machine, you can just follow those steps. Because this won’t be the case for most of us, at least at the beginning, we will work from a DLC-CPU environment and outsource the model training to a cloud computing environment in google colab. For this step you will need the colab notebook provided as [Part II](https://github.com/Guillermo-Hidalgo-Gadea/UQOAB/blob/main/First%20DLC%20project/partII.ipynb).
 
 ## Step 1: Create a new project
 To create a new DeepLabCut project you can run the following lines from the {{< icon name="python" pack="fab" >}}[jupyter notebook](https://github.com/Guillermo-Hidalgo-Gadea/UQOAB/blob/main/First%20DLC%20project/partI.ipynb):
