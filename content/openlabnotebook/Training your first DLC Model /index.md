@@ -132,7 +132,7 @@ Now is the time where the extra GPU computing power is needed, so you have to up
 
 {{< figure src="colab.png" >}} 
 
-**Note:** Personally, I wouldn't want to upload the data for the big scientific breackthrough on google drive before publishing. But google colab is still a good starting point to learn DeepLabCut before investing in expensive GPU upgrades.
+**Note:** Personally, I wouldn't want to upload the data for the big scientific breackthrough on google drive before publishing. Google colab is a very good starting point to learn DeepLabCut before investing in expensive GPU upgrades, but this is not a recommendation to use google to save your data. Please use it at your own risk. 
 
 For this example, my model run for 36800 iterations before it lost connection to the GPU. For a demo this will be perfectly fine, but for a real data analysis it is recommended running 50k to 200k iterations. To restart training from the last saved iteration we would find the train subdirectory within the dlc-models directory and look for the latest snapshot. Open the pose_cfg.yaml file within the same folder and edit the parameter **init_weights** to add the last snapshot without any filetype ending. Then you would re-train the model, again over night. 
 
@@ -142,19 +142,14 @@ init_weights: '/content/drive/MyDrive/clock_reading-guillermo-2021-02-15/dlc-mod
 ```
 
 ## Step 4: Analyze all your videos
-If everything went according to the plan, you now have your very own machine learning model trained to recognize the markers you defined during the manual labeling process. As mentioned before, it is advisable to evaluate and refine your model until you reach the precision you need, but for a first impression of how DeepLabCut works, whatever model you trained should work for now. 
+If everything went according to plan, you now have your very own machine learning model trained to recognize the markers you defined during the manual labeling process. As mentioned before, it is advisable to evaluate and refine your model until you reach the precision you need, but for a first impression of how DeepLabCut works, whatever model you trained should work for now. 
 
-We could continue working in google colab for the next part, but the GPU is no longer needed. Therefore we are going to download the project folder to our local machine, change the path directory in the config file back, and start DeepLabCut again.  
-
-- you can use the model to analyze the video, and to avoid rough labeling errors you can filter predictions
-- you can plot the trajectories of moving markers in the video
-- you can create labeled videos
-- you can export the model for future projects
+You could continue working in google colab for the next part, but the GPU is no longer needed. Therefore we are going to download the project folder to our local machine, change the path directory in the config file back, and start DeepLabCut again. You have to lead the existent config.yaml file instead of creating a new project, and jump through the taps to analyze your videos, filter coordinate predictions, create trajectory plots and create labeled output videos. You can even export your model and skip step 2 and 3 in all your future projects.
 
 This is one of the labeled videos analyzed with the model trained above, reading the clock on a castle tower:
 {{< youtube id="flcPC6wStn8" autoplay="true" >}}
 
-The main DLC outcome during video analysis is a csv file containing the coordinates for each of the markers in each video frame. To start processing your DeepLabCut output check out my next post on how to analyze these coordinates to extract movement, pose or behavior. If you feel comfortable trying by by yourself, you can also check my previous post for an example on how to apply DeepLabCut in [facial expression analysis using unsupervised machine learning](https://guillermohidalgogadea.com/openlabnotebook/upgrade-your-next-zoom-meeting/).
+The main DLC output is a csv file for each video containing the coordinates and prediction accuracy for each of the markers at each video frame. To start processing your DeepLabCut output check out my next post on how to analyze these coordinates to extract movement, pose or behavior. If you feel comfortable trying by yourself, you can also check my previous post for an example on how to apply DeepLabCut in [facial expression analysis using unsupervised machine learning](https://guillermohidalgogadea.com/openlabnotebook/upgrade-your-next-zoom-meeting/).
 
 
 *Let me know on [Twitter](https://twitter.com/G_HidalgoGadea) if you found this guide useful or would like to have a more detailed discussion on any of the methods used above.*
