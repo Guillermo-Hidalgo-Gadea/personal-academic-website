@@ -45,7 +45,7 @@ Do you have the impression everyone but you is using DeepLabCut, and you start f
 For a quick guide on how to install DeepLabCut refer to the previous post: [Installing DeepLabCut - A three step guide](https://guillermohidalgogadea.com/openlabnotebook/installing-deeplabcut/). If you already have it installed, let’s go.
 
 ## What you will need
-You will need a computer with DeepLabCut installed (no GPU needed), as well as a working google account with some space left in your google drive. If you want to start right away you will find demo data and code [here](https://github.com/Guillermo-Hidalgo-Gadea/UQOAB/tree/main/First%20DLC%20project), but it will be the most fun if you bring your own videos and a preliminary idea of what you want to track. Here some examples:
+You will need a computer with DeepLabCut installed (no GPU needed), as well as a working google account with some space left in your google drive. If you want to start right away you will find demo data and code [here](https://github.com/Guillermo-Hidalgo-Gadea/UQOAB/tree/main/First%20DLC%20project), but it will be more fun if you bring your own videos and a preliminary idea of what you want to track. Here some examples:
 The original papers track movement and pose in mice and other animals ([Mathis et al., 2018]( https://www.nature.com/articles/s41593-018-0209-y)), but you can also track human facial expressions (see [here](https://guillermohidalgogadea.com/openlabnotebook/upgrade-your-next-zoom-meeting/)) or even the location of a coin during magic tricks (see [Zaghi-Lara et al., 2019](https://arxiv.org/abs/1908.07446)). It is *your first project*, do whatever you want! I’m excited to hear about it and see how it turned out.   
 
 ## What you will learn
