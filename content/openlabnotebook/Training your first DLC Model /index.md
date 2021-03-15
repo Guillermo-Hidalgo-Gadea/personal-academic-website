@@ -74,7 +74,7 @@ To create a new DeepLabCut project you can run the following lines from the {{< 
 
 ``` python
 import deeplabcut
-config_path = deeplabcut.create_new_project('Project_name', 'Experimenter', [‘videofile_path‘], videotype='mp4', copy_videos = True)
+path_config_file = deeplabcut.create_new_project('Project_name', 'Experimenter', [‘videofile_path‘], videotype='mp4', copy_videos = True)
 ```
 
 Or you can start the DeepLabCut interface and set the same parameters as above:  
