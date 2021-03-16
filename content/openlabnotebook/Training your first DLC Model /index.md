@@ -122,7 +122,7 @@ deeplabcut.extract_frames(path_config_file, 'automatic', 'kmeans', crop = True, 
 Or use the screen *Extract frames* from the DeepLabCut GUI: 
 {{< figure src="extractframes.png" >}}  
 
-Check the terminal output for a message when this process is finished, and start labeling frames. This part will take the longest, get a coffee and make yourself comfortable. You don’t want to rush through this part, as the overall model accuracy will depend on how accurate you are labeling these frames. Take some breaks in between and hang on there.
+Check the terminal output for a message when this process is finished, and start labeling frames. This part will take the longest, get a coffee and make yourself comfortable. You don’t want to rush through this part, as the overall model accuracy will depend on how accurate you are labeling these frames. Take some breaks in between and hang in there.
 
 {{< figure src="labelframes.png" >}}   
 
@@ -144,7 +144,7 @@ init_weights: '/content/drive/MyDrive/clock_reading-guillermo-2021-02-15/dlc-mod
 ## Step 4: Analyze all your videos
 If everything went according to plan, you now have your very own machine learning model trained to recognize the markers you defined during the manual labeling process. As mentioned before, it is advisable to evaluate and refine your model until you reach the precision you need, but for a first impression of how DeepLabCut works, whatever model you trained should work for now. 
 
-You could continue working in google colab for the next part, but the GPU is no longer needed. Therefore we are going to download the project folder to our local machine, change the path directory in the config file back, and start DeepLabCut again. You have to lead the existent config.yaml file instead of creating a new project, and jump through the taps to analyze your videos, filter coordinate predictions, create trajectory plots and create labeled output videos. You can even export your model and skip step 2 and 3 in all your future projects.
+You could continue working in google colab for the next part, but the GPU is no longer needed. We are therefore going to download the project folder to our local machine, change the path directory in the config file back, and start DeepLabCut again. You have to load the existent config.yaml file instead of creating a new project, and jump through the taps to analyze your videos, filter coordinate predictions, create trajectory plots and create labeled output videos. You can even export your model and skip step 2 and 3 in all your future projects.
 
 This is one of the labeled videos analyzed with the model trained above, reading the clock on a castle tower:
 {{< youtube id="flcPC6wStn8" autoplay="true" >}}
