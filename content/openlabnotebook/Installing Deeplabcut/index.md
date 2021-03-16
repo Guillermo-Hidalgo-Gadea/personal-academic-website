@@ -81,6 +81,7 @@ See as short video demo:
 ### Upgrades and Downgreades
 Next, we are going to upgrade DeepLabCut to the latest beta release, as of today 2.2b8 (check for newest release [here](https://github.com/DeepLabCut/DeepLabCut#versions)). We are also going to downgrade the library wxpython < 4.1, as some [issues](https://github.com/DeepLabCut/DeepLabCut/issues/682) have been reported. Again using the {{< icon name="terminal" pack="fas" >}}      terminal, upgrade deeplabcut == 2.2b8 and downgrade wxPython == 4.0.7 as follows:
 
+
 ```bash
 conda activate DLC-CPU
 pip install deeplabcut==2.2b8
@@ -90,6 +91,7 @@ pip install -U wxPython==4.0.7
 See as short video demo: 
 {{< youtube id="8sfb0Qi2Hd0" autoplay="true" >}}
 
+**NOTE**: The stable version of deeplabcut 2.1 has been upgraded several times since the 2.2b8 beta release (09.09.2020). You could skip the upgrade to beta and wait for the official 2.2 release coming soon.
 
 ### Starting DeepLabCut
 Now that DeepLabCut is installed in its own virtual environment we can start having fun with it. And it actually is up to you how to [get started](https://github.com/DeepLabCut/DeepLabCut/blob/master/docs/UseOverviewGuide.md#the-options-for-using-deeplabcut)! DeepLabCut can be used from the GUI by mouse clicks, from terminal with python functions or from jupyter notebooks that can be easily moved to cloud computing servers like [google colab](https://colab.research.google.com/notebooks/intro.ipynb). 
