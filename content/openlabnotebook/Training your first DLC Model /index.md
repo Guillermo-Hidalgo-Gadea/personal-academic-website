@@ -62,10 +62,10 @@ For this project, I have collected 14 different stock videos from pexels.com and
 # 
 
 A typical DeepLabCut project consists of the following 4 steps:
-- creating a project and editing the config.yaml file
-- extracting and labeling frames
-- training a model to learn your markers 
-- analyze videos and extract coordinates
+- Creating a project and editing the config.yaml file
+- Extracting and labeling frames
+- Training a model to learn your markers 
+- Analyze videos and extract coordinates
 
 This process can be expanded at will by evaluating the model after training, refining outlier labels, merging new frames and re-training the model several times. An overview of the whole process and the corresponding python commands can be found in the jupyter notebook provided as [Part I](https://github.com/Guillermo-Hidalgo-Gadea/UQOAB/blob/main/First%20DLC%20project/partI.ipynb). If you have a GPU on your machine, you can just follow those steps. Because this won’t be the case for most of us, at least at the beginning, we will work from a DLC-CPU environment and outsource the model training to a cloud computing environment in google colab. For this step you will need the colab notebook provided as [Part II](https://github.com/Guillermo-Hidalgo-Gadea/UQOAB/blob/main/First%20DLC%20project/partII.ipynb).
 
