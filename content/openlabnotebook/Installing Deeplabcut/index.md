@@ -91,7 +91,13 @@ pip install -U wxPython==4.0.7
 See as short video demo: 
 {{< youtube id="8sfb0Qi2Hd0" autoplay="true" >}}
 
-**NOTE**: The stable version of deeplabcut 2.1 has been upgraded several times since the 2.2b8 beta release (09.09.2020). You could skip the upgrade to beta and wait for the official 2.2 release coming soon.
+**UPDATE**: A new stable version of deeplabcut 2.2 has been officially released in May 2021, making the upgraded to the 2.2b8 beta release (09.09.2020) described above obsolete. You can skip the upgrade and stay with the official release (see [here](https://github.com/DeepLabCut/DeepLabCut/releases)).
+If you already installed *deeplabcut==2.2b8* you can upgrade to the newer *deeplabcut==2.2rc1* running the following commands in your terminal:
+
+```bash
+conda activate DLC-CPU
+pip install 'deeplabcut[gui]'==2.2rc1
+```
 
 ### Starting DeepLabCut
 Now that DeepLabCut is installed in its own virtual environment we can start having fun with it. And it actually is up to you how to [get started](https://github.com/DeepLabCut/DeepLabCut/blob/master/docs/UseOverviewGuide.md#the-options-for-using-deeplabcut)! DeepLabCut can be used from the GUI by mouse clicks, from terminal with python functions or from jupyter notebooks that can be easily moved to cloud computing servers like [google colab](https://colab.research.google.com/notebooks/intro.ipynb). 
@@ -123,7 +129,7 @@ Both methods above will start the DeepLabCut GUI. Find an arrangement on the scr
 
 {{< figure src="featured.png" >}}
 
-To start your first DeepLabCut project check out my next post on “Starting your first DLC Project”. If you feel comfortable trying by yourself, check out [these resources](https://github.com/DeepLabCut/DeepLabCut/blob/master/docs/UseOverviewGuide.md#create-a-new-project) from the DeepLabCut Github page, or these [youtube tutorials](https://www.youtube.com/channel/UC2HEbWpC_1v6i9RnDMy-dfA). 
+To start your first DeepLabCut project check out my next post on [Training your first DeepLabCut Model](https://guillermohidalgogadea.com/openlabnotebook/training-your-first-dlc-model-/). If you feel comfortable trying by yourself, check out [these resources](https://github.com/DeepLabCut/DeepLabCut/blob/master/docs/UseOverviewGuide.md#create-a-new-project) from the DeepLabCut Github page, or these [youtube tutorials](https://www.youtube.com/channel/UC2HEbWpC_1v6i9RnDMy-dfA). 
 
 You can also check my previous post for an example on how to apply DeepLabCut in [facial expression analysis using unsupervised machine learning](https://guillermohidalgogadea.com/openlabnotebook/upgrade-your-next-zoom-meeting/).
 
