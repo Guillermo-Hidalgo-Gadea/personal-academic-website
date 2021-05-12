@@ -66,7 +66,10 @@ First, start deeplabcut in your prefered mode, either as graphic user interface 
 ``` python
 import deeplabcut
 path_config_file = 'D:\FacialExpression\old-DLC-Project\congif.yaml'
-new_videos = ['D:\FacialExpression\new-videos\subject1_cam-A', 'D:\FacialExpression\new-videos\subject1_cam-B', ..., 'D:\FacialExpression\new-videos\subject5_cam-F']
+new_videos = ['D:\FacialExpression\new-videos\subject1_cam-A', 
+              'D:\FacialExpression\new-videos\subject1_cam-B', 
+              ..., 
+              'D:\FacialExpression\new-videos\subject5_cam-F']
 
 ```
 
@@ -84,7 +87,7 @@ Figure 1. outlier tracking from DeepLabCut (Mengmeng, Sevim and Julian) # ask pe
 
 
 ## Step 2: Finding Errors
-We will extract these poorly tracked outlier frames, refine them manually and feed them back to the training dataset for re-training. To keep it (relatively) simple, I will only be extracting 5 frames from each video, because a total of 150 manually labeled frames from 30 new videos seems enough. Open your config.yaml file and set the number of frames to pick to whatever you want, in this case ```numframes2pick: 5 ```. Keep in mind, that manually labeling frames is your work, while training the model and analyzing videos is the machine’s work. I would recommend refining the model labeling only few outlier frames and see what happens. If the model still struggles, you can refine it over and over again, extracting few new outliers, instead of extracting too many outliers at once. 
+We will extract these poorly tracked outlier frames, refine them manually and feed them back to the training dataset for re-training. To keep it (relatively) simple, I will only be extracting 5 frames from each video, because a total of 150 manually labeled frames from 30 new videos seems enough. Open your config.yaml file and set the number of frames to pick to whatever you want, in this case ```numframes2pick:5```. Keep in mind, that manually labeling frames is your work, while training the model and analyzing videos is the machine’s work. I would recommend refining the model labeling only few outlier frames and see what happens. If the model still struggles, you can refine it over and over again, extracting few new outliers, instead of extracting too many outliers at once. 
 
 ``` python
 deeplabcut.extract_outlier_frames(path_config_file, new_videos, automatic=True)
