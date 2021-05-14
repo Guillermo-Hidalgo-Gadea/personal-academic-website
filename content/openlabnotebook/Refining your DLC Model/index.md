@@ -164,6 +164,6 @@ Recording the same scene from multiple camera angles turns out to have several b
 {{< youtube id="FGgm1n8IvD8" autoplay="true" >}}
 
 
-A big fat Thank you to [Neslihan](https://twitter.com/taubenmaedel), [Julian](https://twitter.com/j_packheiser), [Sevim](https://twitter.com/SevimIsparta), [Mengmeng]() and [Alaleh](), for helping out with data collection and their beautifully diverse facial expressions. 
+A big fat Thank you to [Neslihan](https://twitter.com/taubenmaedel), [Julian](https://twitter.com/j_packheiser), [Sevim](https://twitter.com/SevimIsparta), [Mengmeng] and [Alaleh], for helping out with data collection and their beautifully diverse facial expressions. 
 
 *Let me know on [Twitter](https://twitter.com/G_HidalgoGadea) if you found this guide useful or would like to have a more detailed discussion on any of the methods used above.*
