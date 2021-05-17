@@ -66,10 +66,10 @@ First, start deeplabcut in your prefered mode, either as graphic user interface 
 ``` python
 import deeplabcut
 path_config_file = 'D:\FacialExpression\old-DLC-Project\congif.yaml'
-new_videos = ['D:\FacialExpression\new-videos\subject1_cam-A', 
-              'D:\FacialExpression\new-videos\subject1_cam-B', 
+new_videos = ['D:\FacialExpression\new-videos\subject1_cam-A.avi', 
+              'D:\FacialExpression\new-videos\subject1_cam-B.avi', 
               ..., 
-              'D:\FacialExpression\new-videos\subject5_cam-F']
+              'D:\FacialExpression\new-videos\subject5_cam-F.avi']
 
 ```
 
