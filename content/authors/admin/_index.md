@@ -59,6 +59,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Guillermo-Hidalgo-Gadea
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.ruhr-uni-bochum.de/hidalggc
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Guillermo_Hidalgo_Gadea
