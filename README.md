@@ -1,3 +1,3 @@
 # My Personal Academic Website
 
-Check it out at GuillermoHidalgoGadea.com
+Check it out at [GuillermoHidalgoGadea.com](GuillermoHidalgoGadea.com)
