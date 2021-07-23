@@ -29,7 +29,7 @@ item:
   date_start: "2021-07-05"
   description: ""
   organization: Neuromatch Academy
-  organization_url: https://compneuro.neuromatch.io/intro.html
+  organization_url: 
   title: Computational Neuroscience
   url: ""
 - certificate_url: https://1drv.ms/b/s!AjzdYBDcXokchoJ2u4i3ImqiBm53nw?e=QEdzKP/
