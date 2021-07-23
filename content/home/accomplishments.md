@@ -24,12 +24,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://compneuro.neuromatch.io/intro.html
+- certificate_url: https://portal.neuromatchacademy.org/certificate/e6c82a06-09c0-414f-9dda-c20fd82c059a
   date_end: ""
   date_start: "2021-07-05"
   description: ""
   organization: Neuromatch Academy
-  organization_url: 
+  organization_url: https://compneuro.neuromatch.io/intro.html
   title: Computational Neuroscience
   url: ""
 - certificate_url: https://1drv.ms/b/s!AjzdYBDcXokchoJ2u4i3ImqiBm53nw?e=QEdzKP/
