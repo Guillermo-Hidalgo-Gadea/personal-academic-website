@@ -3,7 +3,7 @@ title: S118924 Tracking Animal Behavior – Block seminar
 subtitle: 
 
 # Summary for listings and search engines
-summary: New advances in computer vision allow to measure animal behavior.
+summary: How new advances in computer vision allow us to measure animal behavior.
 
 # Link this post with a project
 projects: []

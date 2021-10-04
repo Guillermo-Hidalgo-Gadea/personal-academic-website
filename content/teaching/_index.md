@@ -11,7 +11,7 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: "teaching.jpg"
+  image: "teaching.png"
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
