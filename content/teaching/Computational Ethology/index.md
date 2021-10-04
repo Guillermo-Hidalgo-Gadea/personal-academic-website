@@ -51,11 +51,11 @@ Programming skills are not necessary, but technical affinity and basic computer 
 
 ## Contents
 Introduction to Computational Ethology
-•	From Tinbergen to Deep Learning
-•	Methods and goals
+*	From Tinbergen to Deep Learning
+*	Methods and goals
 Why Tracking is not Behavior
-•	Differences in location, kinematics and poses
-•	Multi-animal settings
+*	Differences in location, kinematics and poses
+*	Multi-animal settings
 Levels of Analysis and Quantification of Behavior
 •	Structure, spatial relation, and consequence
 •	Measuring latencies, frequencies, intensities, or duration?
