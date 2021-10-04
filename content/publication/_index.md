@@ -12,7 +12,7 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header: 
   caption: 
-  image: "library.jpg"
+  image: "library.png"
   preview_only: true
 
 # Featured image
