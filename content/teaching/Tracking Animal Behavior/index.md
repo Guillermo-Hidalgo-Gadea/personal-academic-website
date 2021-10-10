@@ -1,5 +1,5 @@
 ---
-title: S118924 Tracking Animal Behavior – Block seminar 
+title: S118924 Tracking Animal Behavior – Block Seminar 
 subtitle: 
 
 # Summary for listings and search engines
@@ -49,53 +49,9 @@ New advances in computer vision and machine learning have changed the way we mea
 Programming skills are not necessary, but technical affinity and basic computer skills will be advantageous. The course language may be either English or German, depending on students’ background. The Block seminar will consist of one introductory session and six seminar days, grouped in three consecutive blocks. The final schedule will be discussed on Friday, October 22nd, 2021. The course will consist of lectures, discussions, group improvs and hands on exercises. Group improvs are an active learning strategy consisting of short (unprepared) presentations of ongoing group projects. The seminar will not be graded, but active participation and classroom interaction is expected. 
 
 
-## Contents
-Introduction, Fr. 22.10.2021 2pm
--	Lecture: About me and Syllabus
--	Discussion: Scheduling
--	Lecture: Presentation of datasets
--	Discussion: Project assignment
-
-Block 1, day 1
--	Lecture: What is behavior and what does it mean for psychologists?
--	Group improv: Project proposal, hypotheses, and operationalization
--	Lecture: How can we measure animal behavior? 
--	Hands on: Installing and scoring in BORIS
-
-Block 1, day 2
--	Discussion: Recap measuring behavior and BORIS
--	Lecture: Intro and how to use DeepLabCut
--	Hands on: Dummy DeepLabCut project
--	Group improv: Updated project proposal
-
-Homework: Own data collection (if necessary)
-
-Block 2, day 3
--	Discussion: Recap DeepLabCut workflow
--	Lecture: Recent advances in computational ethology 
--	Group improv: Methods, and analysis
--	Hands on: DeepLabCut projects (data management)
-
-Block 2, day 4
--	Discussion: DeepLabCut Troubleshooting
--	Hands on: DeepLabCut projects (labeling)
-
-Individual appointments (if necessary)
--	Training GLC model with GPU
--	Analyzing videos with GPU
-
-Block 3, day 5
--	Discussion: Recap DeepLabCut troubleshooting
--	Group improv: DeepLabCut results
--	Lecture: Introduction to time series analysis 
--	Hands on: Kinematic analysis and unsupervised ML in python (scripts provided)
-
-Block 3, day 6
--	Hands on: Data analysis
--	Hands on: Prepare final presentation 
--	Group improv: Hypothesis, methods, and results
--	Discussion: Pros and cons of DeepLabCut
-
+## Course Handbook
+Access the course handbook from [here](https://guillermo-hidalgo-gadea.github.io/Seminar-TrackingAnimalBehavior/):
+<iframe src="https://guillermo-hidalgo-gadea.github.io/Seminar-TrackingAnimalBehavior/" frameborder="1" width="900" height="600"></iframe>
 
 
 ## References and Recommended Literature
@@ -112,7 +68,3 @@ Block 3, day 6
 
 - Nath, T., Mathis, A., Chen, A. C., Patel, A., Bethge, M., & Mathis, M. W. (2019). Using DeepLabCut for 3D markerless pose estimation across species and behaviors. Nature Protocols, 14(7), 2152–2176. https://doi.org/10.1038/s41596-019-0176-0
 
-
-
-
-*Let me know on [Twitter](https://twitter.com/G_HidalgoGadea) if you found this guide useful or would like to have a more detailed discussion on any of the methods used above.*

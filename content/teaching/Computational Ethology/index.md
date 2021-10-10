@@ -51,7 +51,8 @@ Programming skills are not necessary, but technical affinity and basic computer 
 
 ## Course Handbook
 Access the course handbook from [here](https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/):
-<iframe src="https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/" frameborder="1" width="900" height="900"></iframe>
+<iframe src="https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/" frameborder="1" width="900" height="600"></iframe>
+
 
 ## References and Recommended Literature
 
