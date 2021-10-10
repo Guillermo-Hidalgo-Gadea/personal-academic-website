@@ -44,12 +44,14 @@ categories:
 ## Description
 What is behavior, and how can we measure it? Experimental Psychologists operationalize behavior as task relevant interactions with stimuli and rewards, such as frequency of key pecking, reaction times, and the number of errors is specific tasks, while biologists classify behavior in qualitative clusters and analyze time spent on grooming behavior, or the frequency and intensity of aggressive interactions. New advances in computer vision and machine learning have changed the way we measure spatiotemporal dynamics of animal movement, but do we really understand Animal Behavior? In this Seminar we will work with video data of human and non-human animals in different setting and apply cutting edge machine learning techniques to extract spatial and temporal data to describe the continuous stream of behavior.
 
-Access the course handbook from [here](https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/)
-<iframe src="https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/" frameborder="1" width="800" height="600"></iframe>
 
 ## Expectations
 Programming skills are not necessary, but technical affinity and basic computer skills will be advantageous. The course language may be either English or German, depending on students’ background. The seminar will not be graded, but active participation and classroom interaction is expected. Students will have to read some of the provided literature prior to the respective paper-discussions. Wherever possible, the content of the seminar will be tailored to prospective bachelor dissertation projects. After this seminar students will have learned to use Python for data analysis, as well as some state-of-the-art machine learning techniques for computational ethology such as **DeepLabCut** (Mathis et al., 2018), **Anipose** (Karashchuk et al., 2020) and **VAME** (Luxem et al., 2020).
 
+
+## Course Handbook
+Access the course handbook from [here](https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/):
+<iframe src="https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/" frameborder="1" width="900" height="900"></iframe>
 
 ## References and Recommended Literature
 
