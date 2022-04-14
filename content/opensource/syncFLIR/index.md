@@ -34,17 +34,17 @@ authors:
 - admin
 
 tags:
-
+- tool
 
 categories:
 
 ---
 
-# Welcome to syncFLIR  [<img src="./icon.png" alt="logo" align="right" width="100"/>](https://guillermohidalgogadea.com/)
+# Welcome to [syncFLIR](https://gitlab.ruhr-uni-bochum.de/ikn/syncflir)
 
-SyncFLIR is a repository with code and instructions to build a synchronized multi-view video recording setup using computer vision cameras from FLIR on Windows. The project is hosted in [GitLab](https://gitlab.ruhr-uni-bochum.de/ikn/syncflir)
+The project is hosted in [GitLab](https://gitlab.ruhr-uni-bochum.de/ikn/syncflir).
 
-## What is it for?
+## What is this for?
 
 Instead of using independent action cameras to record behavioral experiments and painfully trying to synchronize the different video tracks by e.g. hand-clapping cues or blinking LEDs, make your life easier using triggered cameras. Such an array of wired cameras is scalable without considerable extra effort, allowing for synchronized multi-view video recording and 3D triangulation. This project will help you solve half the problem, you only need to set it up.
 
@@ -58,7 +58,7 @@ To further optimize processing speed, video frames are saved in a binary file as
 
 # Installation
 
-Install the Spinnaker [SDK](http://softwareservices.flir.com/Spinnaker/latest/index.html) and test your camera connections with [SpinView](http://softwareservices.flir.com/Spinnaker/latest/page4.html). **Note:** Some parts of the code seem to be compatible with Spinnaker library version 2.3.0.77 only (see [issue #3](https://gitlab.ruhr-uni-bochum.de/ikn/syncflir/-/issues/3)). The sourcecode is in C++, but if you don't feel like compiling, download the executables provided `RECtoBIN.exe` and `BINtoAVI.exe` together with the corresponding `myconfig.txt` file. Configure your recording parameters such as camera serial number and framerate in the `myconfig.txt` file before running RECtoBIN.exe. To work on the sourcecode directly, replace the .cpp file in any existing  `/Spinnaker/src` project and compile the file with the corresponding .h files.
+Install the Spinnaker [SDK](http://softwareservices.flir.com/Spinnaker/latest/index.html) and test your camera connections with SpinView. **Note:** Some parts of the code seem to be compatible with Spinnaker library version 2.3.0.77 only (see [issue #3](https://gitlab.ruhr-uni-bochum.de/ikn/syncflir/-/issues/3)). The sourcecode is in C++, but if you don't feel like compiling, download the executables provided `RECtoBIN.exe` and `BINtoAVI.exe` together with the corresponding `myconfig.txt` file. Configure your recording parameters such as camera serial number and framerate in the `myconfig.txt` file before running RECtoBIN.exe. To work on the sourcecode directly, replace the .cpp file in any existing  `/Spinnaker/src` project and compile the file with the corresponding .h files.
 
 # Recording
 
