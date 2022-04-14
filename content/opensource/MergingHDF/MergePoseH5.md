@@ -1,9 +1,9 @@
 ---
 title: MergingHDF
-subtitle: A short Jupyter Notebook to merge `.hdf`files for spatial statistics.
+subtitle: A short Jupyter Notebook to merge `.hdf` files for spatial statistics.
 
 # Summary for listings and search engines
-summary: This Notebook is intended to help extract coordinate data from .h5 and .csv files before and after DeepLabCut and Anipose analyses.
+summary: This Notebook is intended to help extract coordinate data from `.h5` and `.csv` files before and after DeepLabCut and Anipose analyses.
 
 # Link this post with a project
 projects: []
@@ -42,7 +42,6 @@ categories:
 
 This Notebook is intended to help extract coordinate data from h5 and csv files before and after DeepLabCut and Anipose analyses. Specifically, pose coordinates and arena reference coordinates are analyzed separately, and need to be merged before triangulation.
 
-
 ```python
 # import 
 import os
@@ -55,8 +54,8 @@ import tkinter.filedialog
 
 ## 1. Read pose data
 
-First test with data from '20220201_HexagonalArena_P175'   
-see reference data here: F:\HexagonalArena_local\ArenaReference\20220201_P175   
+First test with data from '20220201_HexagonalArena_P175'
+see reference data here: F:\HexagonalArena_local\ArenaReference\20220201_P175
 and pose data here: F:\PigeonTriangulation_local\hexArenaLoc\trial3\pose-2d
 
 
@@ -1607,8 +1606,4 @@ print(f"Length C-F: {format(np.linalg.norm(cC - cF),'.2f')} mm or {format(np.lin
     Length B-E: 2267.81 mm or 2.27 m
     Length C-F: 2280.98 mm or 2.28 m
 
-
-
-```python
-
-```
+*Let me know on [Twitter](https://twitter.com/G_HidalgoGadea) if you found this useful or would like to have a more detailed discussion on any of the methods used above.*
