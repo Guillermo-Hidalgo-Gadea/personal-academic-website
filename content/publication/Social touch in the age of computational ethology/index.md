@@ -9,11 +9,11 @@ authors:
 - Julian Packheiser
 - admin
 
-date: "2017-09-21"
-doi: #"https://doi.org/10.1007/s12144-022-03051-9"
+date: "2022-03-30"
+doi: "https://doi.org/10.1007/s12144-022-03051-9"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-03-30"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
