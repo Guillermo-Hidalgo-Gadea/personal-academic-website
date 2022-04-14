@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Open Source"
+  url = "opensource"
+  weight = 20
+
+[[main]]
   name = "Open Lab Notebook"
   url = "openlabnotebook"
   weight = 30

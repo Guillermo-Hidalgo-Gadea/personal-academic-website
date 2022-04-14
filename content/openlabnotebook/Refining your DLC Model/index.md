@@ -44,8 +44,8 @@ categories:
 
 If you still need to install DeepLabCut, check out this guide on [Installing DeepLabCut](https://guillermohidalgogadea.com/openlabnotebook/installing-deeplabcut/) and this short example on [Training your first DeepLabCut Model](https://guillermohidalgogadea.com/openlabnotebook/training-your-first-dlc-model-/). As always, check the ever-expanding DeepLabCut documentation on [Github](https://github.com/DeepLabCut/DeepLabCut) for further details.
 
-
 # The Starting Point
+
 In this example we will start with a trained DLC model to detect facial landmarks, overfitted to a single subject, me. We will then try to analyze new videos from different subjects of different genders and ethnicities. We will extract outliers from these misdetections, refine them manually and re-train the model. Last, just for some extra fun, I will use [Anipose](https://anipose.readthedocs.io/en/latest/) to triangulate multiple camera perspectives into a final 3D facial expression for each subject.
 
 The original model was trained on 120 labeled frames from 6 different camera angles of a single subject. And it just works great - see for yourself in the video below!
@@ -59,8 +59,8 @@ A step by step guide for this example is provided as {{< icon name="python" pack
 
 **Note**: In Windows machines you may experience some permission issues trying to extract frames and adding new videos to your project. Just to be sure, try starting the terminal with elevated privileges before activating your environment and starting jupyter notebook.
 
-
 ## Step 1: Old Model on New Data
+
 First, start deeplabcut in your prefered mode, either as graphic user interface or command line. I will use a jupyter notebook myself, but the same steps should work over the GUI as well. Initialize the previous project by setting the path to the corresponding config.yaml file and starting a list with new videos, in this case 30 new videos from 5 different subjects:
 
 ``` python
@@ -82,10 +82,10 @@ deeplabcut.create_labeled_video(path_config_file, new_videos, videotype = 'mp4',
 
 And of course, we won’t be too sad about the fact that DeepLabCut struggles to find my nose and my eyebrows in others’ faces. See for example how tracking collapses into the nose and eyes region on the left, and struggles with blond hair on the right. 
 
-{{< figure src="oldModel.png" >}} 
-
+{{< figure src="oldModel.png" >}}
 
 ## Step 2: Finding Errors
+
 We will extract these poorly tracked outlier frames, refine them manually, and feed them back to the training dataset for re-training. To keep it (relatively) simple, I will only be extracting 5 frames from each video, because a total of 150 manually labeled frames from 30 new videos seems enough. Open your config.yaml file and set the number of frames to pick to whatever you want, in this case ```numframes2pick:5```. Keep in mind that manually labeling frames is work for you, while training the model and analyzing videos is the machine’s work. I would recommend refining the model labeling only a few outlier frames and see what happens. If the model still struggles, you can refine it over and over again, extracting some new outliers, instead of extracting too many at once. 
 
 ``` python
@@ -100,8 +100,8 @@ deeplabcut.add_new_videos(path_config_file, new_videos, copy_videos=False)
 
 If the permission error persists, try starting a new anaconda terminal as administrator (right click > run as administrator) and then starting jupyter notebook with elevated privileges.
 
+## Step 3: Fixing Errors
 
-## Step 3: Fixing Errors 
 After extracting the outlier frames, your actual work can begin. The function below starts a graphical interface to refine labels manually:
 
 ``` python
@@ -112,8 +112,8 @@ First, you need to load the directory with frames you want to refine, and then l
 
 The refining process is overall very similar to labeling, except that the labels are already placed somewhere in the frame. You drag them holding the left mouse key and drop them in place. Delete labels that are not supposed to be in the frame by clicking the mouse wheel. Make sure to delete all labels that are not visible and suppress your *'knowing'* where the eyebrow is behind that strand of hair: if you don’t see it, don’t label it. A minimal difference from the original labeling process is the fact that instead of saving and quitting to go on labeling other files, you will be prompted to refine other files directly after clicking save. The Quit button will close the GUI without redirecting you to new files… and that may cause your notebook to crash. In that case try restarting the kernel from your jupyter notebook.
 
-
 ## Step 4: Learning from Mistakes
+
 After refining all the outlier frames extracted above, merge the dataset to combine these new labels with the labeled data from your previous model and create a new training data set:
 
 ``` python
@@ -128,6 +128,7 @@ To start re-training the previous model, we would go in the ```dlc-models``` dir
 
 {{< icon name="file" pack="fas" >}} pose_cfg.yaml :
 ``` yaml
+
 # instead of using pretrained resnet_50
 init_weights: C:\Users\hidalggc\Anaconda3\envs\DLC-GPU\lib\site-packages\deeplabcut\pose_estimation_tensorflow\models\pretrained\resnet_v1_50.ckpt
 
@@ -143,12 +144,11 @@ deeplabcut.train_network(path_config_file, shuffle=1, displayiters=100, saveiter
 
 Note that I use a GPU on my local machine. If you are working with a CPU and outsource training to google colab, now would be the time to do so. Check the last blogpost on [Training your first DeepLabCut Model](https://guillermohidalgogadea.com/openlabnotebook/training-your-first-dlc-model-/) for an example on how to migrate you project for cloud computing.
 
-
 # At Last
 
 The result is a DLC model trained over two iterations on 270 labeled frames from 6 different camera angles and 6 different subjects: three females and three males, representing nationalities from Germany, Spain, Turkey, Iran, and China.
 
-We will run the functions below once again to analyze the final data with the newly refined model, to see how it generalizes to different subjects:   
+We will run the functions below once again to analyze the final data with the newly refined model, to see how it generalizes to different subjects:
 
 ``` python
 deeplabcut.analyze_videos(path_config_file, test_videos, shuffle=1, save_as_csv=True, videotype='mp4' )
@@ -157,12 +157,11 @@ deeplabcut.create_labeled_video(path_config_file, test_videos, videotype = 'mp4'
 
 {{< figure src="newModel.png" >}}
 
+# A little Extra
 
-# A little Extra 
 Recording the same scene from multiple camera angles turns out to have several benefits. First, different angles provide multiple training examples from the same recording. Second, multiple angles avoid occlusion, e.g., when subjects roll their eyes behind your back. At least one camera will catch that. And last but not least, the original reason to record from multiple camera angles was to allow 3D triangulation from the different 2D images. This next process will be covered in detail in a separate post, but for now you can lie back, start reading about [Anipose](https://anipose.readthedocs.io/en/latest/) and enjoy the 3D tracked facial expressions below.
 
 {{< youtube id="FGgm1n8IvD8" autoplay="true" >}}
-
 
 A big fat Thank you to [Neslihan](https://twitter.com/taubenmaedel), [Julian](https://twitter.com/j_packheiser), [Sevim](https://twitter.com/SevimIsparta), Mengmeng and Alaleh, for helping out with data collection and their beautifully diverse facial expressions. 
 

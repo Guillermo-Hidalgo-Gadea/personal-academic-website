@@ -14,7 +14,7 @@ organizations:
   url: https://www.bio.psy.ruhr-uni-bochum.de/members_guillermo.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include embodied cognition, animal behavior and learning.
+bio: My research interests include embodied cognition, animal behavior and machine learning.
 
 # Interests to show in About widget
 interests:
@@ -78,6 +78,6 @@ His research has employed a variety of methods, including behavioral experiments
 
 Guillermo's PhD project is currently funded by the Deutsche Forschungsgemeinschaft (DFG) Research Training Group Situated Cognition - grant number GRK-2185.
 
-He is engaged to [Simone Becker](www.simonebecker.dance).
+He is engaged to [Simone Becker](simonebecker.dance).
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
