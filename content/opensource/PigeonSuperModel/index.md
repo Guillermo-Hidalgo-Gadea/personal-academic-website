@@ -41,7 +41,7 @@ categories:
 
 ---
 
-# Welcome to the [Pigeon Super Model](https://gitlab.ruhr-uni-bochum.de/ikn/pigeonsupermodel)
+# Welcome to the [PigeonSuperModel](https://gitlab.ruhr-uni-bochum.de/ikn/pigeonsupermodel)
 
 This project is hosted in [GitLab](https://gitlab.ruhr-uni-bochum.de/ikn/pigeonsupermodel).
 
