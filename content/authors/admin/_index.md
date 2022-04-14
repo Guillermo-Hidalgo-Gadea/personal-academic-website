@@ -76,8 +76,8 @@ Guillermo Hidalgo Gadea is a PhD student of embodied cognition, animal behavior 
 
 His research has employed a variety of methods, including behavioral experiments in non-human primates and physiological signal processing in humans for fatigue and discomfort detection. He has successfully applied frequentist and bayesian analysis methods as well as neural networks and unsupervised machine learning approaches.
 
-Guillermo's PhD project is currently funded by the Deutsche Forschungsgemeinschaft (DFG) Research Training Group Situated Cognition - grant number GRK-2185. 
+Guillermo's PhD project is currently funded by the Deutsche Forschungsgemeinschaft (DFG) Research Training Group Situated Cognition - grant number GRK-2185.
 
-He is engaged to Simone Becker.
+He is engaged to [Simone Becker](www.simonebecker.dance).
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
