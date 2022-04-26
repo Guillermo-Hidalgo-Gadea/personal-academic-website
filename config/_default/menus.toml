@@ -6,36 +6,31 @@
 [[main]]
   name = "Open Source"
   url = "opensource"
-  weight = 10
+  weight = 1
 
 [[main]]
   name = "Open Lab Notebook"
   url = "openlabnotebook"
-  weight = 20
+  weight = 2
 
 [[main]]
   name = "Publications"
   url = "publication"
-  weight = 30
+  weight = 3
 
 [[main]]
   name = "Teaching"
   url = "teaching"
-  weight = 40
+  weight = 4
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 50
+  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "media/resume.pdf"
-  weight = 60
-
-[[main]]
-  name = "RSS"
-  url = "https://guillermohidalgogadea.alwaysdata.net/"
-  weight = 70
+  weight = 6
