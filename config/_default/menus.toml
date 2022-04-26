@@ -34,3 +34,8 @@
   name = "CV"
   url = "media/resume.pdf"
   weight = 60
+
+[[main]]
+  name = "RSS"
+  url = "https://guillermohidalgogadea.alwaysdata.net/"
+  weight = 70
