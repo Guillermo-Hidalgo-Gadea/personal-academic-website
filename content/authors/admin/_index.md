@@ -66,7 +66,7 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/Guillermo_Hidalgo_Gadea
 - icon: square-rss
-  icon_pack: fab
+  icon_pack: fas
   link: https://guillermohidalgogadea.alwaysdata.net
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
