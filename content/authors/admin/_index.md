@@ -53,9 +53,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Cb42f0cAAAAJ&hl=de
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-7174-0530
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0001-7174-0530
 - icon: github
   icon_pack: fab
   link: https://github.com/Guillermo-Hidalgo-Gadea
@@ -66,7 +66,7 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/Guillermo_Hidalgo_Gadea
 - icon: square-rss
-  icon_pack: ai
+  icon_pack: fab
   link: https://guillermohidalgogadea.alwaysdata.net
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
