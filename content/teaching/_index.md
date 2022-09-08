@@ -23,4 +23,4 @@ image:
 ---
 
 
-I teach the following courses at the Ruhr-University Bochum and tutor psychology students at a graduate and undergraduate level on statistical data analysis and experimental design. Some of my courses have designated websites with notes, code and other teaching materials. Feel free to browse and use any public material posted in these websites. 
+I teach the following courses at the Ruhr-University Bochum and tutor psychology students at a graduate and undergraduate level on statistical data analysis and experimental design. Some of my courses have designated websites with notes, code and other teaching materials. Feel free to browse and use any public material posted in these websites.
