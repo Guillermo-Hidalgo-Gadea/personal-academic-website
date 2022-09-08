@@ -27,9 +27,16 @@ image:
 ---
 
 <div style="text-align: center;">
-<p><em>Welcome the online CV of Guillermo Hidalgo Gadea!</em></p>
-<p>Browse through the collapsed sections below to find out more.</p>
+<p>
+Welcome the online CV of <b>Guillermo Hidalgo Gadea</b>!
+</p>
+<p>
+Browse through the collapsed sections below to find out more.
+You can also download a shorted pdf version here.
+</p>
 </div>
+
+#
 
 ## What have I learned?
 
@@ -52,7 +59,9 @@ You found me!
 You found me!
 {{< /spoiler >}}
 
-## What have I done
+#
+
+## What have I done?
 
 {{< spoiler text="**Research Experience**" >}}
 You found me!
@@ -75,6 +84,8 @@ You found me!
 - Ad hoc Reviewer
 
 {{< /spoiler >}}
+
+#
 
 ## What have I contributed?
 
