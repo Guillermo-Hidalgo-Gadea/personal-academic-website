@@ -35,8 +35,8 @@ You can also download a shortened pdf version from {{< icon name="file-pdf" pack
 ## What have I learned?
 
 {{< spoiler text="**Education**">}}
-
-|---	|---	|
+| x | y |
+|---|---|
 |June 2020 - present  | PhD in Psychology, Ruhr-Universität Bochum, Germany
 Institute of Cognitive Neuroscience, Prof. Dr. Dr. h.c. Onur Güntürkün  |
 |Sep 2018 - Nov 2019 | M.Sc. in Psychological Research Methods, Stirling University, Scotland Thesis: “Human and Non-Human Primates undergo Similar Interferences in Quantity Representation during Spontaneous Food Choices” |
