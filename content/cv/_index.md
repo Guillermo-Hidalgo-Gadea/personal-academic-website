@@ -27,8 +27,8 @@ image:
 ---
 
 <div style="text-align: center;">
-<p>**Welcome the online CV of Guillermo Hidalgo Gadea!**
-</p>
+<p><em>Welcome the online CV of Guillermo Hidalgo Gadea!</em></p>
+<p>Browse through the collapsed sections below to find out more.</p>
 </div>
 
 ## What have I learned?
@@ -37,6 +37,11 @@ image:
 
 {{< spoiler text="**Education**" >}}
 You found me!
+
+{{% callout note %}}
+A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
+{{% /callout %}}
+
 {{< /spoiler >}}
 
 {{< spoiler text="**Skills**" >}}
@@ -46,10 +51,6 @@ You found me!
 {{< spoiler text="**Training**" >}}
 You found me!
 {{< /spoiler >}}
-
-{{% callout note %}}
-A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
 
 ## What have I done
 
@@ -65,7 +66,7 @@ You found me!
 You found me!
 {{< /spoiler >}}
 
-{{< spoiler text="**Academic Achievments**" >}}
+{{< spoiler text="**Academic Achievements**" >}}
 
 - Awards
 - Memberships
