@@ -20,16 +20,20 @@ image:
   placement: 2
   preview_only: true
 
-# Examples
-#> This is a blockquote.
-#This is a {{< hl >}}highlighted quote{{< /hl >}}.
+# Examples to upgrade online, interactive cv
+# {{< toc >}}
+# > This is a blockquote.
+# This is a {{< hl >}}highlighted quote{{< /hl >}}.
 ---
 
-**Welcome the online CV of Guillermo Hidalgo Gadea!**
-
-{{< toc >}}
+<div style="text-align: center;">
+<p>**Welcome the online CV of Guillermo Hidalgo Gadea!**
+</p>
+</div>
 
 ## What have I learned?
+
+{{< icon name="terminal" pack="fas" >}} Terminal
 
 {{< spoiler text="**Education**" >}}
 You found me!
@@ -42,7 +46,6 @@ You found me!
 {{< spoiler text="**Training**" >}}
 You found me!
 {{< /spoiler >}}
-
 
 {{% callout note %}}
 A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
