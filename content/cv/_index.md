@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitae
+title: Welcome to my online Curriculum Vitae
 
 # View.
 #   1 = List
@@ -27,9 +27,6 @@ image:
 ---
 
 <div style="text-align: center;">
-<p>
-Welcome the online CV of <b>Guillermo Hidalgo Gadea</b>!
-</p>
 <p>
 Browse through the collapsed sections below to find out more.
 You can also download a shorted pdf version here.
