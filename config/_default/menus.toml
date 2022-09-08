@@ -28,9 +28,14 @@
   url = "#contact"
   weight = 5
 
+[[main]]
+  name = "Funding"
+  url = "funding"
+  weight = 6
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "cv"
-  weight = 6
+  weight = 7

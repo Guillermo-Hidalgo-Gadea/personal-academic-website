@@ -27,10 +27,8 @@ image:
 ---
 
 <div style="text-align: center;">
-<p>
-Browse through the collapsed sections below to find out more.
-You can also download a shorted pdf version here.
-</p>
+<p>Browse through the collapsed sections below to find out more.</p>
+<p>You can also download a shortened pdf version from [here](`static/media/resume.pdf`).</p>
 </div>
 
 #
