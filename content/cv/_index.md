@@ -21,8 +21,7 @@ image:
   preview_only: true
 
 # Examples to upgrade online, interactive cv
-# {{< toc >}}
-# > This is a blockquote.
+
 # This is a {{< hl >}}highlighted quote{{< /hl >}}.
 ---
 
@@ -32,12 +31,9 @@ Browse through the collapsed sections below to find out more about me!
 You can also download a shortened pdf version from {{< icon name="file-pdf" pack="fas" >}} [here](static/media/resume.pdf).
 {{% /callout %}}
 
-
-#
-
 ## What have I learned?
 
-{{< spoiler text="**Education**" icon name="terminal" pack="fas" >}}
+{{< icon name="terminal" pack="fas" spoiler text="**Education**">}}
 You found me!
 
 {{% callout note %}}

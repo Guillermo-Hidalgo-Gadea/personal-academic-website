@@ -20,13 +20,9 @@ image:
   placement: 2
   preview_only: true
 
-# Examples to upgrade online, interactive cv
-# {{< toc >}}
-# > This is a blockquote.
-# This is a {{< hl >}}highlighted quote{{< /hl >}}.
 ---
 
-My academic work is funded by the German Research Council (Deutsche Forschungs Gemeinschaft, DFG) in the context of a research assistant position in the Research Training Group “Situated Cognition” (GRK 2185/1) with the Ruhr-University Bochum.
+My academic work is funded by the German Research Council (Deutsche Forschungsgemeinschaft, DFG) in the context of a research assistant position in the Research Training Group “Situated Cognition” (GRK 2185/1) with the Ruhr-University Bochum.
 
 I am also an independent science consultant and statistics coach working with university students and businesses on the side.
 
