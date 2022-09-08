@@ -36,8 +36,8 @@ You can also download a shortened pdf version from {{< icon name="file-pdf" pack
 
 {{< spoiler text="**Education**">}}
 |  |  |
-|:-------|:---|
-|06/2020 - <br>present  | PhD in Psychology, Ruhr-Universität Bochum, Germany <br>Institute of Cognitive Neuroscience, Prof. Dr. Dr. h.c. Onur Güntürkün  |
+|:------------------|:---|
+|06/2020 - present  | PhD in Psychology, Ruhr-Universität Bochum, Germany <br>Institute of Cognitive Neuroscience, Prof. Dr. Dr. h.c. Onur Güntürkün  |
 |09/2018 - <br>11/2019 | M.Sc. in Psychological Research Methods, Stirling University, Scotland <br>Thesis: “Human and Non-Human Primates undergo Similar Interferences <br>in Quantity Representation during Spontaneous Food Choices” |
 |10/2013 - <br>09/2017 | B.Sc. in Psychology, Bergische Universität Wuppertal, Germany <br>Thesis: “Fatigue Detection based on Multimodal Biosignal Processing” |
 |10/2011 - <br>09/2013 | B.Sc. in Physics, Technische Universität Dortmund, Germany <br>Minoring in Philosophy and Chemistry  |
