@@ -26,18 +26,19 @@ image:
 # This is a {{< hl >}}highlighted quote{{< /hl >}}.
 ---
 
-<div style="text-align: center;">
-<p>Browse through the collapsed sections below to find out more.</p>
-<p>You can also download a shortened pdf version from [here](`static/media/resume.pdf`).</p>
-</div>
+{{% callout note %}}
+Browse through the collapsed sections below to find out more.
+You can also download a shortened pdf version from [here](`static/media/resume.pdf`).
+{{% /callout %}}
+
 
 #
 
 ## What have I learned?
 
-{{< icon name="terminal" pack="fas" >}} Terminal
+{{< icon name="terminal" pack="fas" >}}
 
-{{< spoiler text="**Education**" >}}
+{{< spoiler text="**Education**" >}}{{< icon name="terminal" pack="fas" >}}
 You found me!
 
 {{% callout note %}}
@@ -46,7 +47,7 @@ A Markdown callout is useful for displaying notices, hints, or definitions to yo
 
 {{< /spoiler >}}
 
-{{< spoiler text="**Skills**" >}}
+{{< icon name="terminal" pack="fas" >}}{{< spoiler text="**Skills**" >}}
 You found me!
 {{< /spoiler >}}
 
