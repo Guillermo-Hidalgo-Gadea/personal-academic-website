@@ -27,8 +27,9 @@ image:
 ---
 
 {{% callout note %}}
-Browse through the collapsed sections below to find out more.
-You can also download a shortened pdf version from [here](`static/media/resume.pdf`).
+Browse through the collapsed sections below to find out more about me!
+
+You can also download a shortened pdf version from {{< icon name="file-pdf" pack="fas" >}} [here](static/media/resume.pdf).
 {{% /callout %}}
 
 
@@ -36,9 +37,7 @@ You can also download a shortened pdf version from [here](`static/media/resume.p
 
 ## What have I learned?
 
-{{< icon name="terminal" pack="fas" >}}
-
-{{< spoiler text="**Education**" >}}{{< icon name="terminal" pack="fas" >}}
+{{< spoiler text="**Education**" icon name="terminal" pack="fas" >}}
 You found me!
 
 {{% callout note %}}
