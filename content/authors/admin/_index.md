@@ -82,5 +82,3 @@ His research has employed a variety of methods, including behavioral experiments
 Guillermo's PhD project is currently funded by the Deutsche Forschungsgemeinschaft (DFG) Research Training Group Situated Cognition - grant number GRK-2185.
 
 He is engaged to [Simone Becker](http://simonebecker.dance).
-
-{{< icon name="download" pack="fas" >}} Download {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
