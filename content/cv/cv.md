@@ -26,19 +26,15 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 | Student Supervision | Web Development | Spanish (native) |
 | Science Communication | Python, R, C++, MATLAB | Catalan (native) |
 
-***
-
 ## Education
 
 |  |  |
-|:---------------------|:--------|
+|:-------------------------|:|:-------------------------
 |06/2020 - present  | Ph.D. in Psychology, Ruhr-Universität Bochum, Germany <br>Institute of Cognitive Neuroscience, Prof. Dr. Dr. h.c. Onur Güntürkün  |
 |09/2018 - 11/2019 | M.Sc. in Psychological Research Methods, Stirling University, Scotland <br>Thesis: “Human and Non-Human Primates undergo Similar Interferences <br>in Quantity Representation during Spontaneous Food Choices” |
 |10/2013 - 09/2017 | B.Sc. in Psychology, Bergische Universität Wuppertal, Germany <br>Thesis: “Fatigue Detection based on Multimodal Biosignal Processing” |
 |10/2011 - 09/2013 | B.Sc. in Physics, Technische Universität Dortmund, Germany <br>Minoring in Philosophy and Chemistry  |
 |09/2009 - 05/2011 | Abitur, Deutsche Schule Barcelona, Spain <br>Majoring in Physics, Mathematics and German Language  |
-
-***
 
 ## Training
 
@@ -57,7 +53,6 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 | 04/2020 | **Probability and Statistics**, MOOC from University of London |
 | 04/2020 | **Philosophy of Cognitive Science**, MOOC from University of Edinburgh |
 | 07/2016 | **Fitness Instructor B Certification**, German Fitness & Aerobic Association |
-***
 
 ## Research Experience
 
@@ -67,26 +62,24 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 | 11/2018 - 06/2019 | **Postgraduate Research Placement** <br>Department of Psychology, University of Stirling, Scotland <br>Research in cumulative culture in macaques, ERC-2014-CoG RATCHETCOG |
 | 09/2014 - 11/2015 | **Research Assistant** <br>Schumpeter School of Business & Economics, Bergische Universität Wuppertal <br>Experimental Industrial and Organizational Psychology |
 | 04/2011 - 05/2011 | **Student Work Placement** <br>ALBA Synchrotron Light Facility, Barcelona Spain <br>Electron accelerator sensors and ionized plasma chambers |
-***
 
 ## Professional Experience
 
 |  |  |
-|:---------------------|:--------|
+|:-------------------------|:-------------------------
 | 06/2020 - present | **Research Assistant** <br>Philosophy of the Mind, Faculty of Philosophy, Ruhr-Universität Bochum <br>DFG funded Research Training Group GRK 2185 Situated Cognition|
 | 01/2019 - present | **Independent Scientific and Statistical Consultant** <br>Research methodology, study design and statistical analysis <br>Coaching for Businesses, Bachelor, Master and PhD dissertations|
 | 01/2017 - 05/2018 | **Project Manager** <br>Institute of Experimental Psychophysiology GmbH <br>Team management in public and industry funded research projects|
 | 07/2015 - 12/2016 | **Research Assistant** <br>Institute of Experimental Psychophysiology GmbH <br>Computational models for microsleep and discomfort detection|
 |09/2015 - 07/2018 | **Fitness Instructor - DFAV certified** | Bergische Universität Wuppertal <br>Group Fitness, BootCamp and Cross Country Running|
 |07/2014 - 06/2015 | **Student Assistant** <br>Faculty of Psychology, Bergische Universität Wuppertal <br>Department of Methodology and Psychological Diagnostics|
-***
 
 ## Academic Achievements
 
 ### Awards, Grants and Memberships
 
 |  |  |
-|:---------------------|:--------|
+|:-------------------------|:-------------------------|
 |09/2022 |Contribution to the DFG Evaluation of the CRC 1372 Grant Period|
 |01/2022 - present |Member of the Society for Neuroscience (SfN)|
 |01/2021 |Contribution to the DFG Evaluation of the RTG 2185 Grant Period|
@@ -99,7 +92,7 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 ### Invited Talks and Appearances
 
 |  |  |
-|:---------------------|:--------|
+|:-------------------------||:-------------------------|
 |08/2022 |Keynote Chairmanship at the second Avian Cognitive Neuroscience Conference, Ruhr University Bochum|
 |07/2022 |Speaker at the Research Colloquium of the Neural Basis Of Learning Unit of the Institute of Cognitive Neuroscience, Ruhr University Bochum|
 |05/2022 |Speaker at the Scientific Retreat of the Department of Biopsychology at the Hamburg Medical School|
@@ -109,27 +102,25 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 ### Ad hoc Reviewer
 
 |  |  |
-|:---------------------|:--------|
+|:-------------------------|:-------------------------|
 |08/2022 |Scientific Reports, 2-year impact factor (2021): 4.996|
 
 ### Teaching and Research Supervision
 
 |  |  |
-|:---------------------|:--------|
+|:-------------------------|:-------------------------|
 | 2022 | B.Sc. Thesis Sarah M. Möser |
 | 2022 | B.Sc. Thesis Victor Ludwig |
 |10/2021 - 03/2022 |Undergraduate Seminar [Computational Ethology](https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/intro.html) (5 credits, seminar id: 112726)|
 |10/2021 - 03/2022 |Postgraduate Seminar [Tracking Animal Behavior](https://guillermo-hidalgo-gadea.github.io/Seminar-TrackingAnimalBehavior/intro.html) (3 credits, seminar id: 118924)|
-***
 
 ## Science Communication and Open Science
 
 I host the personal blog [Open Lab Notebook](../openlabnotebook), to share new academic research methodologies and studies in the making. I actively maintain a scientific network on Twitter as [@G_HidalgoGadea](https://twitter.com/G_HidalgoGadea) and I share Open Courseware and Open Shareware of ongoing and past seminars and paper methods. I also host tutorials for deep learning based behavior tracking at [PigeonSuperModel.com](https://pigeonsupermodel.com/intro.html) and I regularly contribute to scientific conferences and peer-reviewed journals.
 
 | Courseware | Shareware | PigeonSuperModel | PrePrints |
-|:---------------------|:---------------------|:---------------------|:---------------------|
+|:-------------------------|:-------------------------|:-------------------------|:-------------------------|
 |- [Teaching Website](https://guillermohidalgogadea.com/teaching/)<br>- Seminar [Computational Ethology](https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/intro.html)<br>- Seminar [Tracking Animal Behavior](https://guillermo-hidalgo-gadea.github.io/Seminar-TrackingAnimalBehavior/intro.html) | - [Open Source Website](https://guillermohidalgogadea.com/opensource/)<br>- GitHub: [VideoPyToolbox](https://github.com/Guillermo-Hidalgo-Gadea/VideoPyToolbox)<br>- GitLab: [syncFLIR](https://gitlab.ruhr-uni-bochum.de/ikn/syncflir)| - [Website](https://pigeonsupermodel.com/intro.html)<br>- [Repository](https://gitlab.ruhr-uni-bochum.de/ikn/pigeonsupermodel)| - [PsyArXiv](https://psyarxiv.com/discover?q=%22Guillermo%20Hidalgo%20Gadea%22)|
-***
 
 ## Conference Contributions
 
@@ -146,7 +137,6 @@ I host the personal blog [Open Lab Notebook](../openlabnotebook), to share new a
 - **Hidalgo-Gadea, G.**, Schnieder, S., Roelen, S., Wiggerich, A. & Krajewski, J. (2016). Erfassung körperlicher Aktivität in der Selbstevaluation gesundheitsbezogenen Verhaltens: Validität und Usability von Wearables. Talk at the 58th Conference of Experimental Psychologists, University of Heidelberg.
 
 - Schnieder, **Hidalgo-Gadea, G.**, S., Roelen, S., Wiggerich, A. & Krajewski, J. (2015). Validität und Usability von Wearables zur Erfassung körperlicher Aktivität in der Selbstevaluation gesundheitsbezogenen Verhaltens. Talk at the 11th Berlin Workshop on Human-Machine Systems of the Institute of Psychology and Ergonomics (IPA), Track: Trends in Neuroergonomics, Berlin-Brandenburg Academy of Sciences. http://dx.doi.org/10.14279/depositonce-4887
-***
 
 ## Publications
 
@@ -157,6 +147,8 @@ I host the personal blog [Open Lab Notebook](../openlabnotebook), to share new a
 - Jansen, M. T., Jansen, N. C., Weber, A., **Hidalgo-Gadea, G.**, Ansari, E., & Scheren, P. (2017). Semantic Priming with Homonymous Nouns: Hints of Clarifying the Issue of Selective vs. Non-Selective Priming. Journal of European Psychology Students, 8(1), 15–29. https://doi.org/10.5334/jeps.408
 
 - Schuller, B., Steidl, S., Batliner, A., Bergelson, E., Krajewski, J., Janott, C., Amatuni, A., Casillas, M., Seidl, A., Soderstrom, M., Warlaumont, A. S., **Hidalgo-Gadea, G.**, Schnieder, … Zafeiriou, S. (2017). The INTERSPEECH 2017 Computational Paralinguistics Challenge: Addressee, Cold & Snoring. Interspeech 2017, 3442–3446. https://doi.org/10.21437/Interspeech.2017-43
+
+***
 
 {{% callout note %}}
 You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}{{% staticref "uploads/resume.pdf" "newtab" %}}here{{% /staticref %}}
