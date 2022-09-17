@@ -66,12 +66,12 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 
 |  |  |
 |:---------------------|:--------|
-| 06/2020 - present | **Research Assistant** <br> Philosophy of the Mind, Faculty of Philosophy, Ruhr-Universität Bochum <br> DF funded Research Training Group GRK 2185 Situated Cognition|
-| 01/2019 - present | **Independent Scientific and Statistical Consultant** <br> Research methodology, study design and statistical analysis <br> Coaching for Businesses, Bachelor, Master and PhD dissertations|
-| 01/2017 - 05/2018 | **Project Manager** <br> Institute of Experimental Psychophysiology GmbH <br> Team management in public and industry funded research projects|
-| 07/2015 - 12/2016 | **Research Assistant** <br> Institute of Experimental Psychophysiology GmbH <br> Computational models for microsleep and discomfort detection|
-|09/2015 - 07/2018 | **Fitness Instructor - DFAV certified** | Bergische Universität Wuppertal <br> Group Fitness, BootCamp and Cross Country Running|
-|07/2014 - 06/2015 | **Student Assistant** <br> Faculty of Psychology, Bergische Universität Wuppertal <br> Department of Methodology and Psychological Diagnostics|
+| 06/2020 - present | **Research Assistant** <br>Philosophy of the Mind, Faculty of Philosophy, Ruhr-Universität Bochum <br>DFG funded Research Training Group GRK 2185 Situated Cognition|
+| 01/2019 - present | **Independent Scientific and Statistical Consultant** <br>Research methodology, study design and statistical analysis <br>Coaching for Businesses, Bachelor, Master and PhD dissertations|
+| 01/2017 - 05/2018 | **Project Manager** <br>Institute of Experimental Psychophysiology GmbH <br>Team management in public and industry funded research projects|
+| 07/2015 - 12/2016 | **Research Assistant** <br>Institute of Experimental Psychophysiology GmbH <br>Computational models for microsleep and discomfort detection|
+|09/2015 - 07/2018 | **Fitness Instructor - DFAV certified** | Bergische Universität Wuppertal <br>Group Fitness, BootCamp and Cross Country Running|
+|07/2014 - 06/2015 | **Student Assistant** <br>Faculty of Psychology, Bergische Universität Wuppertal <br>Department of Methodology and Psychological Diagnostics|
 
 ## Academic Achievements
 
@@ -117,28 +117,20 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 
 I host the personal blog [Open Lab Notebook](../openlabnotebook), to share new academic research methodologies and studies in the making. I actively maintain a scientific network on Twitter as [@G_HidalgoGadea](https://twitter.com/G_HidalgoGadea) and I share Open Courseware and Open Shareware of ongoing and past seminars and paper methods. I also host tutorials for deep learning based behavior tracking at [PigeonSuperModel.com](https://pigeonsupermodel.com/intro.html) and I regularly contribute to scientific conferences and peer-reviewed journals.
 
-### Courseware
-
-- Website: [Teaching](https://guillermohidalgogadea.com/teaching/)
-- Seminar [Computational Ethology](https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/intro.html)
-- Seminar [Tracking Animal Behavior](https://guillermo-hidalgo-gadea.github.io/Seminar-TrackingAnimalBehavior/intro.html)
-
-### Shareware
-
-- Website: [Open Source](https://guillermohidalgogadea.com/opensource/)
-- GitHub: [Profile](https://github.com/Guillermo-Hidalgo-Gadea)  
-- GitHub: [VideoPyToolbox](https://github.com/Guillermo-Hidalgo-Gadea/VideoPyToolbox)
-- GitLab: [Profile](https://gitlab.ruhr-uni-bochum.de/hidalggc)
-- GitLab: [syncFLIR](https://gitlab.ruhr-uni-bochum.de/ikn/syncflir)
-
-### PigeonSuperModel
-
-- Website: [PigeonSuperModel.com](https://pigeonsupermodel.com/intro.html)
-- GitLab: [Repository](https://gitlab.ruhr-uni-bochum.de/ikn/pigeonsupermodel)
-
-### PrePrints
-
-- PsyArXiv: [psyarxiv.com](https://psyarxiv.com/discover?q=%22Guillermo%20Hidalgo%20Gadea%22)
+| Courseware | Shareware | PigeonSuperModel | PrePrints |
+|:---------------------|:---------------------|:---------------------|:---------------------|
+|
+- [Teaching Website](https://guillermohidalgogadea.com/teaching/)<br>
+- Seminar [Computational Ethology](https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/intro.html)<br>
+- Seminar [Tracking Animal Behavior](https://guillermo-hidalgo-gadea.github.io/Seminar-TrackingAnimalBehavior/intro.html) |
+- Website: [Open Source](https://guillermohidalgogadea.com/opensource/)<br>
+- GitHub: [Profile](https://github.com/Guillermo-Hidalgo-Gadea)<br>
+- GitHub: [VideoPyToolbox](https://github.com/Guillermo-Hidalgo-Gadea/VideoPyToolbox)<br>
+- GitLab: [Profile](https://gitlab.ruhr-uni-bochum.de/hidalggc)<br>
+- GitLab: [syncFLIR](https://gitlab.ruhr-uni-bochum.de/ikn/syncflir)| 
+- Website: [PigeonSuperModel.com](https://pigeonsupermodel.com/intro.html)<br>
+- GitLab: [Repository](https://gitlab.ruhr-uni-bochum.de/ikn/pigeonsupermodel)| 
+- PsyArXiv: [psyarxiv.com](https://psyarxiv.com/discover?q=%22Guillermo%20Hidalgo%20Gadea%22)| 
 
 ## Conference Contributions
 
