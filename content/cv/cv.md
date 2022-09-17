@@ -40,19 +40,19 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 
 |  |  |
 |:-------------------------|:-------------------------|
-| 05/2022 | **Safety Officer in University Laboratories**, Advanced Seminar from the Accident Insurance NRW |
-| 04/2022 | **Introduction to Leadership Skills**, Seminar from the University Bochum Research School |
-| 10/2021 | **Communicating Science Online**, Seminar from the German National Institute for Science Communication (NaWik)|
-| 07/2021 | **Computational Neuroscience**, Neuromatch Academy |
-| 03/2021 | **EU Function A Training**, Certificate from the Federation of European Laboratory Animal Science Associations (FELASA)|
-| 01/2021 | **Rat Tickling Certification**, MOOC from Purdue University |
-| 01/2021 | **Deep Learning in Python**, MOOC from Udemy |
-| 07/2020 | **Python for Research**, MOOC from HarvardX |
-| 05/2020 | **Machine Learning in Matlab**, MOOC from Stanford online |
-| 04/2020 | **Fundamentals in Neuroscience**, MOOC from HarvardX |
-| 04/2020 | **Probability and Statistics**, MOOC from University of London |
-| 04/2020 | **Philosophy of Cognitive Science**, MOOC from University of Edinburgh |
-| 07/2016 | **Fitness Instructor B Certification**, German Fitness & Aerobic Association |
+| 05/2022 | **Safety Officer in University Laboratories**<br>Advanced Seminar from the Accident Insurance NRW |
+| 04/2022 | **Introduction to Leadership Skills**<br>Seminar from the University Bochum Research School |
+| 10/2021 | **Communicating Science Online**<br>Seminar from the German National Institute for Science Communication (NaWik)|
+| 07/2021 | **Computational Neuroscience**<br>Neuromatch Academy |
+| 03/2021 | **EU Function A Training**<br>Certificate from the Federation of European Laboratory Animal Science Associations (FELASA)|
+| 01/2021 | **Rat Tickling Certification**<br>MOOC from Purdue University |
+| 01/2021 | **Deep Learning in Python**<br>MOOC from Udemy |
+| 07/2020 | **Python for Research**<br>MOOC from HarvardX |
+| 05/2020 | **Machine Learning in Matlab**<br>MOOC from Stanford online |
+| 04/2020 | **Fundamentals in Neuroscience**<br>MOOC from HarvardX |
+| 04/2020 | **Probability and Statistics**<br>MOOC from University of London |
+| 04/2020 | **Philosophy of Cognitive Science**<br>MOOC from University of Edinburgh |
+| 07/2016 | **Fitness Instructor B Certification**<br>German Fitness & Aerobic Association |
 
 ## Research Experience
 
@@ -87,23 +87,23 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 |12/2019 |External funding from Kyoto University for Conference Contribution|
 |06/2019 |Best Academic Poster Award from the Behaviour and Evolution Research Group, University of Stirling|
 |01/2019 – 12/2020 |Member of the Association for the Study of Animal Behaviour (ASAB)|
-|05/2011 - 12/2013 |Scholarship for scientific education abroad from the German Academic Exchange Service (DAAD)|
+|05/2011 - 12/2013 |Scholarship for Scientific Education Abroad from the German Academic Exchange Service (DAAD)|
 
 ### Invited Talks and Appearances
 
 |  |  |
 |:-------------------------||:-------------------------|
-|08/2022 |Keynote Chairmanship at the second Avian Cognitive Neuroscience Conference, Ruhr University Bochum|
-|07/2022 |Speaker at the Research Colloquium of the Neural Basis Of Learning Unit of the Institute of Cognitive Neuroscience, Ruhr University Bochum|
-|05/2022 |Speaker at the Scientific Retreat of the Department of Biopsychology at the Hamburg Medical School|
-|06/2020 |Speaker at the Research Colloquium of the Department of Biopsychology, Ruhr University Bochum|
-|12/2019 |Speaker at the Research Colloquium of the Institute of Evolutionary Biology and Ecology, University of Bonn|
+|08/2022 |Keynote Chairmanship at the second Avian Cognitive Neuroscience Conference <br> Ruhr University Bochum|
+|07/2022 |Speaker at the Research Colloquium of the Neural Basis Of Learning Unit of the Institute of Cognitive Neuroscience <br> Ruhr University Bochum|
+|05/2022 |Speaker at the Scientific Retreat of the Department of Biopsychology <br> Hamburg Medical School|
+|06/2020 |Speaker at the Research Colloquium of the Department of Biopsychology <br> Ruhr University Bochum|
+|12/2019 |Speaker at the Research Colloquium of the Institute of Evolutionary Biology and Ecology <br> University of Bonn|
 
 ### Ad hoc Reviewer
 
 |  |  |
 |:-------------------------|:-------------------------|
-|08/2022 |Scientific Reports, 2-year impact factor (2021): 4.996|
+|08/2022 |Scientific Reports<br>2-year impact factor (2021): 4.996|
 
 ### Teaching and Research Supervision
 
