@@ -79,6 +79,7 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 | 07/2015 - 12/2016 | **Research Assistant** <br>Institute of Experimental Psychophysiology GmbH <br>Computational models for microsleep and discomfort detection|
 |09/2015 - 07/2018 | **Fitness Instructor - DFAV certified** | Bergische Universität Wuppertal <br>Group Fitness, BootCamp and Cross Country Running|
 |07/2014 - 06/2015 | **Student Assistant** <br>Faculty of Psychology, Bergische Universität Wuppertal <br>Department of Methodology and Psychological Diagnostics|
+***
 
 ## Academic Achievements
 
@@ -119,6 +120,7 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 | 2022 | B.Sc. Thesis Victor Ludwig |
 |10/2021 - 03/2022 |Undergraduate Seminar [Computational Ethology](https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/intro.html) (5 credits, seminar id: 112726)|
 |10/2021 - 03/2022 |Postgraduate Seminar [Tracking Animal Behavior](https://guillermo-hidalgo-gadea.github.io/Seminar-TrackingAnimalBehavior/intro.html) (3 credits, seminar id: 118924)|
+***
 
 ## Science Communication and Open Science
 
@@ -126,7 +128,8 @@ I host the personal blog [Open Lab Notebook](../openlabnotebook), to share new a
 
 | Courseware | Shareware | PigeonSuperModel | PrePrints |
 |:---------------------|:---------------------|:---------------------|:---------------------|
-|- [Teaching Website](https://guillermohidalgogadea.com/teaching/)<br>- Seminar [Computational Ethology](https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/intro.html)<br>- Seminar [Tracking Animal Behavior](https://guillermo-hidalgo-gadea.github.io/Seminar-TrackingAnimalBehavior/intro.html) | - [Open Source Website](https://guillermohidalgogadea.com/opensource/)<br>- GitHub: [VideoPyToolbox](https://github.com/Guillermo-Hidalgo-Gadea/VideoPyToolbox)<br>- GitLab: [syncFLIR](https://gitlab.ruhr-uni-bochum.de/ikn/syncflir)| - [Website](https://pigeonsupermodel.com/intro.html)<br>- [Repository](https://gitlab.ruhr-uni-bochum.de/ikn/pigeonsupermodel)| - [PsyArXiv](https://psyarxiv.com/discover?q=%22Guillermo%20Hidalgo%20Gadea%22)| 
+|- [Teaching Website](https://guillermohidalgogadea.com/teaching/)<br>- Seminar [Computational Ethology](https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/intro.html)<br>- Seminar [Tracking Animal Behavior](https://guillermo-hidalgo-gadea.github.io/Seminar-TrackingAnimalBehavior/intro.html) | - [Open Source Website](https://guillermohidalgogadea.com/opensource/)<br>- GitHub: [VideoPyToolbox](https://github.com/Guillermo-Hidalgo-Gadea/VideoPyToolbox)<br>- GitLab: [syncFLIR](https://gitlab.ruhr-uni-bochum.de/ikn/syncflir)| - [Website](https://pigeonsupermodel.com/intro.html)<br>- [Repository](https://gitlab.ruhr-uni-bochum.de/ikn/pigeonsupermodel)| - [PsyArXiv](https://psyarxiv.com/discover?q=%22Guillermo%20Hidalgo%20Gadea%22)|
+***
 
 ## Conference Contributions
 
@@ -143,6 +146,7 @@ I host the personal blog [Open Lab Notebook](../openlabnotebook), to share new a
 - **Hidalgo-Gadea, G.**, Schnieder, S., Roelen, S., Wiggerich, A. & Krajewski, J. (2016). Erfassung körperlicher Aktivität in der Selbstevaluation gesundheitsbezogenen Verhaltens: Validität und Usability von Wearables. Talk at the 58th Conference of Experimental Psychologists, University of Heidelberg.
 
 - Schnieder, **Hidalgo-Gadea, G.**, S., Roelen, S., Wiggerich, A. & Krajewski, J. (2015). Validität und Usability von Wearables zur Erfassung körperlicher Aktivität in der Selbstevaluation gesundheitsbezogenen Verhaltens. Talk at the 11th Berlin Workshop on Human-Machine Systems of the Institute of Psychology and Ergonomics (IPA), Track: Trends in Neuroergonomics, Berlin-Brandenburg Academy of Sciences. http://dx.doi.org/10.14279/depositonce-4887
+***
 
 ## Publications
 
