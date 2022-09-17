@@ -57,6 +57,7 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 | 04/2020 | **Probability and Statistics**, MOOC from University of London |
 | 04/2020 | **Philosophy of Cognitive Science**, MOOC from University of Edinburgh |
 | 07/2016 | **Fitness Instructor B Certification**, German Fitness & Aerobic Association |
+***
 
 ## Research Experience
 
@@ -66,6 +67,7 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 | 11/2018 - 06/2019 | **Postgraduate Research Placement** <br>Department of Psychology, University of Stirling, Scotland <br>Research in cumulative culture in macaques, ERC-2014-CoG RATCHETCOG |
 | 09/2014 - 11/2015 | **Research Assistant** <br>Schumpeter School of Business & Economics, Bergische Universität Wuppertal <br>Experimental Industrial and Organizational Psychology |
 | 04/2011 - 05/2011 | **Student Work Placement** <br>ALBA Synchrotron Light Facility, Barcelona Spain <br>Electron accelerator sensors and ionized plasma chambers |
+***
 
 ## Professional Experience
 
