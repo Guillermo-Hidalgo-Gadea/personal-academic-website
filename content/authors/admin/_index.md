@@ -75,10 +75,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Guillermo Hidalgo Gadea is a PhD student of embodied cognition, animal behavior and learning in pigeons at the Institute of Cognitive Neuroscience in Bochum. His research interests include comparative psychology, computational neuroethology and machine learning.
+Guillermo Hidalgo Gadea is a doctoral researcher of embodied cognition and animal behavior working with pigeons at the Institute of Cognitive Neuroscience in Bochum. His research interests include comparative psychology, computational neuroethology and machine learning. He attained a M.Sc. at the University of Stirling working on numerical cognition with Chimpanzees, Lemurs and Psychology Students. He first moved from Spain to Germany to study Physics at the Technical University Dortmund and then changed his area of studies to Psychology at the University of Wuppertal were he attained his B.Sc. training machine learning models for microsleep detection in fatigued car drivers.
 
-His research has employed a variety of methods, including behavioral experiments in human and non-human primates and physiological signal processing for fatigue and discomfort detection. He has successfully applied frequentist and bayesian analysis methods as well as machine learning approaches.
+He has successfully applied frequentist and bayesian analysis methods as well as machine learning approaches, and now shares his acquired taste for exploratory data analysis as an independent Scientific and Statistical Consultant for businesses and students of all backgrounds.
 
-Guillermo's PhD project is currently funded by the Deutsche Forschungsgemeinschaft (DFG) Research Training Group Situated Cognition - grant number GRK-2185.
+Guillermo's PhD project is currently funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG) Research Training Group Situated Cognition - grant number GRK-2185.
 
 He is engaged to [Simone Becker](http://simonebecker.dance).
