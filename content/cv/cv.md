@@ -2,7 +2,8 @@
 widget: blank
 headless: true
 active: true
-
+profile: true 
+author: admin
 # ... Put Your Section Options Here (title etc.) ...
 title: Curriculum Vitae
 subtitle:
