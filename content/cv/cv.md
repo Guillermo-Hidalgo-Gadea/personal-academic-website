@@ -23,7 +23,7 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 | Team and Project Management | Statistical Analysis | English (professional) |
 | Online and Offline Teaching | Experimental Design | German (native) |
 | Student Supervision | Web Development | Spanish (native) |
-| Science Communication | Python, R, C++, MATLAB | Catalan (native) |
+| Science Communication | Python, R, C++, MATLAB | Catalan (native) | 
 
 ## Education
 
