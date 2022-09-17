@@ -119,18 +119,7 @@ I host the personal blog [Open Lab Notebook](../openlabnotebook), to share new a
 
 | Courseware | Shareware | PigeonSuperModel | PrePrints |
 |:---------------------|:---------------------|:---------------------|:---------------------|
-|
-- [Teaching Website](https://guillermohidalgogadea.com/teaching/)<br>
-- Seminar [Computational Ethology](https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/intro.html)<br>
-- Seminar [Tracking Animal Behavior](https://guillermo-hidalgo-gadea.github.io/Seminar-TrackingAnimalBehavior/intro.html) |
-- Website: [Open Source](https://guillermohidalgogadea.com/opensource/)<br>
-- GitHub: [Profile](https://github.com/Guillermo-Hidalgo-Gadea)<br>
-- GitHub: [VideoPyToolbox](https://github.com/Guillermo-Hidalgo-Gadea/VideoPyToolbox)<br>
-- GitLab: [Profile](https://gitlab.ruhr-uni-bochum.de/hidalggc)<br>
-- GitLab: [syncFLIR](https://gitlab.ruhr-uni-bochum.de/ikn/syncflir)| 
-- Website: [PigeonSuperModel.com](https://pigeonsupermodel.com/intro.html)<br>
-- GitLab: [Repository](https://gitlab.ruhr-uni-bochum.de/ikn/pigeonsupermodel)| 
-- PsyArXiv: [psyarxiv.com](https://psyarxiv.com/discover?q=%22Guillermo%20Hidalgo%20Gadea%22)| 
+|- [Teaching Website](https://guillermohidalgogadea.com/teaching/)<br>- Seminar [Computational Ethology](https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/intro.html)<br>- Seminar [Tracking Animal Behavior](https://guillermo-hidalgo-gadea.github.io/Seminar-TrackingAnimalBehavior/intro.html) | - Website: [Open Source](https://guillermohidalgogadea.com/opensource/)<br>- GitHub: [Profile](https://github.com/Guillermo-Hidalgo-Gadea)<br>- GitHub: [VideoPyToolbox](https://github.com/Guillermo-Hidalgo-Gadea/VideoPyToolbox)<br>- GitLab: [Profile](https://gitlab.ruhr-uni-bochum.de/hidalggc)<br>- GitLab: [syncFLIR](https://gitlab.ruhr-uni-bochum.de/ikn/syncflir)| - Website: [PigeonSuperModel.com](https://pigeonsupermodel.com/intro.html)<br>- GitLab: [Repository](https://gitlab.ruhr-uni-bochum.de/ikn/pigeonsupermodel)| - PsyArXiv: [psyarxiv.com](https://psyarxiv.com/discover?q=%22Guillermo%20Hidalgo%20Gadea%22)| 
 
 ## Conference Contributions
 
