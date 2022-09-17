@@ -1,5 +1,5 @@
 ---
-title: Open Source
+title: Stuff I Like
 
 # View.
 #   1 = List
@@ -10,7 +10,7 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: "opensource.jpeg"
+  image: ""
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -19,8 +19,16 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
+
+# Examples to upgrade online, interactive cv
+
+# This is a {{< hl >}}highlighted quote{{< /hl >}}.
 ---
 
-## A small step towards open science: sharing tools, code and data
+## Podcasts
 
-Here you will find a compilation of openly accessible and completely free software, code and data. Check the details of individual license agreements within each project. Please get in touch if you are looking for details.
+## Books
+
+## Software
+
+## Organizational Tools

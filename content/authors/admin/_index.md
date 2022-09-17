@@ -77,7 +77,7 @@ highlight_name: false
 ---
 Guillermo Hidalgo Gadea is a PhD student of embodied cognition, animal behavior and learning in pigeons at the Institute of Cognitive Neuroscience in Bochum. His research interests include comparative psychology, computational neuroethology and machine learning.
 
-His research has employed a variety of methods, including behavioral experiments in non-human primates and physiological signal processing in humans for fatigue and discomfort detection. He has successfully applied frequentist and bayesian analysis methods as well as neural networks and unsupervised machine learning approaches.
+His research has employed a variety of methods, including behavioral experiments in human and non-human primates and physiological signal processing for fatigue and discomfort detection. He has successfully applied frequentist and bayesian analysis methods as well as machine learning approaches.
 
 Guillermo's PhD project is currently funded by the Deutsche Forschungsgemeinschaft (DFG) Research Training Group Situated Cognition - grant number GRK-2185.
 
