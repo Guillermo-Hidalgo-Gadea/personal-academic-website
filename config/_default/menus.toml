@@ -36,5 +36,5 @@
 
 [[main]]
   name = "CV"
-  url = "cv"
+  url = "cv/"
   weight = 7

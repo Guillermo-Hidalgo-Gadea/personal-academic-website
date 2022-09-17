@@ -1,6 +1,7 @@
 ---
 widget: blank
 headless: true
+active: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Welcome to my online CV
