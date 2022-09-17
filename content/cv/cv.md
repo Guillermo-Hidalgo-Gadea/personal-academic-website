@@ -29,7 +29,7 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 ## Education
 
 |  |  |
-|:-------------------------|:|:-------------------------
+|:-------------------------|:-------------------------|
 |06/2020 - present  | Ph.D. in Psychology, Ruhr-Universität Bochum, Germany <br>Institute of Cognitive Neuroscience, Prof. Dr. Dr. h.c. Onur Güntürkün  |
 |09/2018 - 11/2019 | M.Sc. in Psychological Research Methods, Stirling University, Scotland <br>Thesis: “Human and Non-Human Primates undergo Similar Interferences <br>in Quantity Representation during Spontaneous Food Choices” |
 |10/2013 - 09/2017 | B.Sc. in Psychology, Bergische Universität Wuppertal, Germany <br>Thesis: “Fatigue Detection based on Multimodal Biosignal Processing” |
@@ -57,7 +57,7 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 ## Research Experience
 
 |  |  |
-|:---------------------|:--------|
+|:-------------------------|:-------------------------|
 | 09/2019 - 01/2020 | **Postgraduate Research Placement** <br>Institute of Evolutionary Biology and Ecology, University of Bonn, Germany <br>Biostatistical analysis of cichlid fish behavior and ecology |
 | 11/2018 - 06/2019 | **Postgraduate Research Placement** <br>Department of Psychology, University of Stirling, Scotland <br>Research in cumulative culture in macaques, ERC-2014-CoG RATCHETCOG |
 | 09/2014 - 11/2015 | **Research Assistant** <br>Schumpeter School of Business & Economics, Bergische Universität Wuppertal <br>Experimental Industrial and Organizational Psychology |
@@ -66,7 +66,7 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 ## Professional Experience
 
 |  |  |
-|:-------------------------|:-------------------------
+|:-------------------------|:-------------------------|
 | 06/2020 - present | **Research Assistant** <br>Philosophy of the Mind, Faculty of Philosophy, Ruhr-Universität Bochum <br>DFG funded Research Training Group GRK 2185 Situated Cognition|
 | 01/2019 - present | **Independent Scientific and Statistical Consultant** <br>Research methodology, study design and statistical analysis <br>Coaching for Businesses, Bachelor, Master and PhD dissertations|
 | 01/2017 - 05/2018 | **Project Manager** <br>Institute of Experimental Psychophysiology GmbH <br>Team management in public and industry funded research projects|
@@ -92,7 +92,7 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 ### Invited Talks and Appearances
 
 |  |  |
-|:-------------------------||:-------------------------|
+|:-------------------------|:-------------------------|
 |08/2022 |Keynote Chairmanship at the second Avian Cognitive Neuroscience Conference <br> Ruhr University Bochum|
 |07/2022 |Speaker at the Research Colloquium of the Neural Basis Of Learning Unit of the Institute of Cognitive Neuroscience <br> Ruhr University Bochum|
 |05/2022 |Speaker at the Scientific Retreat of the Department of Biopsychology <br> Hamburg Medical School|
