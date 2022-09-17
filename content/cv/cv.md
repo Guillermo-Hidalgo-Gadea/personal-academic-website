@@ -25,6 +25,38 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 | Student Supervision | Web Development | Spanish (native) |
 | Science Communication | Python, R, C++, MATLAB | Catalan (native) |
 
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Softskills</th>
+<th style="text-align:left">Hardskills</th>
+<th style="text-align:left">Languages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Team and Project Management</td>
+<td style="text-align:left">Statistical Analysis</td>
+<td style="text-align:left">English (professional)</td>
+</tr>
+<tr>
+<td style="text-align:left">Online and Offline Teaching</td>
+<td style="text-align:left">Experimental Design</td>
+<td style="text-align:left">German (native)</td>
+</tr>
+<tr>
+<td style="text-align:left">Student Supervision</td>
+<td style="text-align:left">Web Development</td>
+<td style="text-align:left">Spanish (native)</td>
+</tr>
+<tr>
+<td style="text-align:left">Science Communication</td>
+<td style="text-align:left">Python, R, C++, MATLAB</td>
+<td style="text-align:left">Catalan (native)</td>
+</tr>
+</tbody>
+</table>
+
 ## Education
 
 |  |  |
@@ -70,33 +102,23 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 | 01/2019 - present | **Independent Scientific and Statistical Consultant** <br> Research methodology, study design and statistical analysis <br> Coaching for Businesses, Bachelor, Master and PhD dissertations|
 | 01/2017 - 05/2018 | **Project Manager** <br> Institute of Experimental Psychophysiology GmbH <br> Team management in public and industry funded research projects|
 | 07/2015 - 12/2016 | **Research Assistant** <br> Institute of Experimental Psychophysiology GmbH <br> Computational models for microsleep and discomfort detection|
-|09/2015 - 07/2018 | **Fitness Instructor - DFAV certified** | Bergische Universität Wuppertal <br> Group Fitness, BootCamp and Cross Country Running
+|09/2015 - 07/2018 | **Fitness Instructor - DFAV certified** | Bergische Universität Wuppertal <br> Group Fitness, BootCamp and Cross Country Running|
 |07/2014 - 06/2015 | **Student Assistant** <br> Faculty of Psychology, Bergische Universität Wuppertal <br> Department of Methodology and Psychological Diagnostics|
 
 ## Academic Achievements
 
-### Awards
-
-|  |  |
-|:---------------------|:--------|
-|12/2019 |External funding from Kyoto University for Conference Contribution|
-|06/2019 |Best Academic Poster Award from the Behaviour and Evolution Research Group, University of Stirling|
-|05/2011 - 12/2013 |Scholarship for scientific education abroad from the German Academic Exchange Service (DAAD)|
-
-### Memberships
-
-|  |  |
-|:---------------------|:--------|
-|01/2022 - present |Member of the Society for Neuroscience (SfN)|
-|01/2020 – present |Member of the Cognitive Science Society (CSS)|
-|01/2019 – 12/2020 |Member of the Association for the Study of Animal Behaviour (ASAB)|
-
-### Grants
+### Awards, Grants and Memberships
 
 |  |  |
 |:---------------------|:--------|
 |09/2022 |Contribution to the DFG Evaluation of the CRC 1372 Grant Period|
+|01/2022 - present |Member of the Society for Neuroscience (SfN)|
 |01/2021 |Contribution to the DFG Evaluation of the RTG 2185 Grant Period|
+|01/2020 – present |Member of the Cognitive Science Society (CSS)|
+|12/2019 |External funding from Kyoto University for Conference Contribution|
+|06/2019 |Best Academic Poster Award from the Behaviour and Evolution Research Group, University of Stirling|
+|01/2019 – 12/2020 |Member of the Association for the Study of Animal Behaviour (ASAB)|
+|05/2011 - 12/2013 |Scholarship for scientific education abroad from the German Academic Exchange Service (DAAD)|
 
 ### Invited Talks and Appearances
 
@@ -118,14 +140,14 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 
 |  |  |
 |:---------------------|:--------|
+| 2022 | B.Sc. Thesis Sarah M. Möser |
+| 2022 | B.Sc. Thesis Victor Ludwig |
 |10/2021 - 03/2022 |Undergraduate Seminar [Computational Ethology](https://guillermo-hidalgo-gadea.github.io/Seminar-ComputationalEthology/intro.html) (5 credits, seminar id: 112726)|
 |10/2021 - 03/2022 |Postgraduate Seminar [Tracking Animal Behavior](https://guillermo-hidalgo-gadea.github.io/Seminar-TrackingAnimalBehavior/intro.html) (3 credits, seminar id: 118924)|
 
-## Science Communication
+## Science Communication and Open Science
 
-I host a personal blog, the [Open Lab Notebook](https://guillermohidalgogadea.com/openlabnotebook/), to share new academic research methodologies and studies in the making. I actively maintain a scientific network on Twitter as [@G_HidalgoGadea](https://twitter.com/G_HidalgoGadea) and I share Open Courseware and Open Shareware of ongoing and past seminars and paper methods. I also host tutorials for deep learning based behavior tracking at [PigeonSuperModel.com](https://pigeonsupermodel.com/intro.html) and I regularly contribute to scientific conferences and peer-reviewed journals.
-
-## Open Source Content
+I host the personal blog [Open Lab Notebook](../openlabnotebook), to share new academic research methodologies and studies in the making. I actively maintain a scientific network on Twitter as [@G_HidalgoGadea](https://twitter.com/G_HidalgoGadea) and I share Open Courseware and Open Shareware of ongoing and past seminars and paper methods. I also host tutorials for deep learning based behavior tracking at [PigeonSuperModel.com](https://pigeonsupermodel.com/intro.html) and I regularly contribute to scientific conferences and peer-reviewed journals.
 
 ### Courseware
 
@@ -134,6 +156,7 @@ I host a personal blog, the [Open Lab Notebook](https://guillermohidalgogadea.co
 - Seminar [Tracking Animal Behavior](https://guillermo-hidalgo-gadea.github.io/Seminar-TrackingAnimalBehavior/intro.html)
 
 ### Shareware
+
 - Website: [Open Source](https://guillermohidalgogadea.com/opensource/)
 - GitHub: [Profile](https://github.com/Guillermo-Hidalgo-Gadea)  
 - GitHub: [VideoPyToolbox](https://github.com/Guillermo-Hidalgo-Gadea/VideoPyToolbox)
@@ -141,10 +164,12 @@ I host a personal blog, the [Open Lab Notebook](https://guillermohidalgogadea.co
 - GitLab: [syncFLIR](https://gitlab.ruhr-uni-bochum.de/ikn/syncflir)
 
 ### PigeonSuperModel
+
 - Website: [PigeonSuperModel.com](https://pigeonsupermodel.com/intro.html)
 - GitLab: [Repository](https://gitlab.ruhr-uni-bochum.de/ikn/pigeonsupermodel)
 
 ### PrePrints
+
 - PsyArXiv: [psyarxiv.com](https://psyarxiv.com/discover?q=%22Guillermo%20Hidalgo%20Gadea%22)
 
 ## Conference Contributions
@@ -172,3 +197,7 @@ I host a personal blog, the [Open Lab Notebook](https://guillermohidalgogadea.co
 - Jansen, M. T., Jansen, N. C., Weber, A., **Hidalgo-Gadea, G.**, Ansari, E., & Scheren, P. (2017). Semantic Priming with Homonymous Nouns: Hints of Clarifying the Issue of Selective vs. Non-Selective Priming. Journal of European Psychology Students, 8(1), 15–29. https://doi.org/10.5334/jeps.408
 
 - Schuller, B., Steidl, S., Batliner, A., Bergelson, E., Krajewski, J., Janott, C., Amatuni, A., Casillas, M., Seidl, A., Soderstrom, M., Warlaumont, A. S., **Hidalgo-Gadea, G.**, Schnieder, … Zafeiriou, S. (2017). The INTERSPEECH 2017 Computational Paralinguistics Challenge: Addressee, Cold & Snoring. Interspeech 2017, 3442–3446. https://doi.org/10.21437/Interspeech.2017-43
+
+{{% callout note %}}
+You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}{{% staticref "uploads/resume.pdf" "newtab" %}}here{{% /staticref %}}
+{{% /callout %}}
