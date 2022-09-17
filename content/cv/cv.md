@@ -1,28 +1,14 @@
 ---
-title: Welcome to my online Curriculum Vitae
-type: widget_page
+widget: blank
+headless: true
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 3
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 
-  focal_point: ""
-  placement: 2
-  preview_only: true
-
-
-# This is a {{< hl >}}highlighted quote{{< /hl >}}.
+# ... Put Your Section Options Here (title etc.) ...
+title: Welcome to my online CV
+subtitle:
+weight: 2  # section position on page
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 ---
 
 {{% callout note %}}
