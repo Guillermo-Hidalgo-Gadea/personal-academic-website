@@ -25,37 +25,7 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 | Student Supervision | Web Development | Spanish (native) |
 | Science Communication | Python, R, C++, MATLAB | Catalan (native) |
 
-<table>
-<thead>
-<tr>
-<th style="text-align:left">Softskills</th>
-<th style="text-align:left">Hardskills</th>
-<th style="text-align:left">Languages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left">Team and Project Management</td>
-<td style="text-align:left">Statistical Analysis</td>
-<td style="text-align:left">English (professional)</td>
-</tr>
-<tr>
-<td style="text-align:left">Online and Offline Teaching</td>
-<td style="text-align:left">Experimental Design</td>
-<td style="text-align:left">German (native)</td>
-</tr>
-<tr>
-<td style="text-align:left">Student Supervision</td>
-<td style="text-align:left">Web Development</td>
-<td style="text-align:left">Spanish (native)</td>
-</tr>
-<tr>
-<td style="text-align:left">Science Communication</td>
-<td style="text-align:left">Python, R, C++, MATLAB</td>
-<td style="text-align:left">Catalan (native)</td>
-</tr>
-</tbody>
-</table>
+<style type="text/css">@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style><div class="tg-wrap"><table style="border-collapse:collapse;border-spacing:0;margin:0px auto" class="tg"><thead><tr><th style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">Softskills</th><th style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">Hardskills</th><th style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">Languages</th></tr></thead><tbody><tr><td style="background-color:#fcfcfc;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">Team and Project Management</td><td style="background-color:#fcfcfc;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">Statistical Analysis</td><td style="background-color:#fcfcfc;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">English (professional)</td></tr><tr><td style="background-color:#fcfcfc;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">Online and Offline Teaching</td><td style="background-color:#fcfcfc;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">Experimental Design</td><td style="background-color:#fcfcfc;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">German (native)</td></tr><tr><td style="background-color:#fcfcfc;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">Student Supervision</td><td style="background-color:#fcfcfc;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">Web Development</td><td style="background-color:#fcfcfc;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">Spanish (native)</td></tr><tr><td style="background-color:#fcfcfc;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">Science Communication</td><td style="background-color:#fcfcfc;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">Python, R, C++, MATLAB</td><td style="background-color:#fcfcfc;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:middle;word-break:normal">Catalan (native)</td></tr></tbody></table></div>
 
 ## Education
 
