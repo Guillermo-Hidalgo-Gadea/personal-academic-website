@@ -24,7 +24,9 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 | Team and Project Management | Statistical Analysis | English (professional) |
 | Online and Offline Teaching | Experimental Design | German (native) |
 | Student Supervision | Web Development | Spanish (native) |
-| Science Communication | Python, R, C++, MATLAB | Catalan (native) | 
+| Science Communication | Python, R, C++, MATLAB | Catalan (native) |
+
+***
 
 ## Education
 
@@ -35,6 +37,8 @@ You can also download a pdf version from {{< icon name="file-pdf" pack="fas" >}}
 |10/2013 - 09/2017 | B.Sc. in Psychology, Bergische Universität Wuppertal, Germany <br>Thesis: “Fatigue Detection based on Multimodal Biosignal Processing” |
 |10/2011 - 09/2013 | B.Sc. in Physics, Technische Universität Dortmund, Germany <br>Minoring in Philosophy and Chemistry  |
 |09/2009 - 05/2011 | Abitur, Deutsche Schule Barcelona, Spain <br>Majoring in Physics, Mathematics and German Language  |
+
+***
 
 ## Training
 
