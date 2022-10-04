@@ -1,6 +1,7 @@
 ---
 widget: blank
 headless: true
+title: Book a Scientist
 active: true
 profile: true 
 author: admin
@@ -9,13 +10,11 @@ weight: 1  # section position on page
 banner:
   image: "teaching.png"
 design:
-  columns: '1'
+  columns: '2'
   background:
     # Name of image in `assets/media/`.
     image: teaching.png
 # <div class="article-header"><img src="/media/teaching.png" class="article-banner" alt=""></div>
 ---
-
-# Book a Scientist
 
 ## Interested in any of my Science, Data or Methods? Do you have an idea for interesting Collaborations? Are you looking for a Speaker or a Scientific Consultant? Or do you rather need help in Statistics to finish a thesis or paper? Let's chat, I might be able to help!
