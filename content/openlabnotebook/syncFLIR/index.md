@@ -1,5 +1,5 @@
 ---
-title: syncFLIR
+title: Software - syncFLIR
 subtitle: A synchronized multiview video recording setup in C++ using FLIR cameras and Spinnaker SDK on Windows machines.
 
 # Summary for listings and search engines

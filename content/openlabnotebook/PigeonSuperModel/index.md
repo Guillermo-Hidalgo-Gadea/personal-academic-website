@@ -1,5 +1,5 @@
 ---
-title: PigeonSuperModel
+title: Software - PigeonSuperModel
 subtitle: Pre-trained pigeon models for markerless pose estimation using DeepLabCut and SLEAP.
 
 # Summary for listings and search engines
