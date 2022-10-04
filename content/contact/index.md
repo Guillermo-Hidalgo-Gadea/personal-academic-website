@@ -12,4 +12,5 @@ header:
   preview_only: true
 ---
 
+<div class="article-header"><img src="/media/teaching.png" class="article-banner" alt=""></div>
 
