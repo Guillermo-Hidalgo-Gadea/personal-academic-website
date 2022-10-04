@@ -30,3 +30,5 @@ This is a way for me to post regularly about the process of my research without 
 Sure, you can just wait a while and then check my [publications](../publication), but here you may find some interesting methods that never made it to a final publication, some insights into the behind the scenes process towards that specific publication, as well as (let's not jinx it) some negative results. Please get in touch if you are looking for details, I would love to discuss any of this.
 
 ### A small step towards open science:
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="g.hidalgogadea" data-description="Support me on Buy me a coffee!" data-message="Thanks for visiting! If you like the website, consider buying me a coffee. Add a note and we could have it together via video call." data-color="#FFDD00" data-position="Right" data-x_margin="18" data-y_margin="18"></script>

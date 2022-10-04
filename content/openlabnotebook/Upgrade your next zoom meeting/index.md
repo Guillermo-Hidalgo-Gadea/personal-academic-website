@@ -90,3 +90,5 @@ You may even want to analyze the raw coordinates to calculate kinematics like he
 Last but not least, I recommend you count the absolute and relative frequency of each facial expression to have an idea of how often you are doing that specific weird face in zoom meetings.
 
 *Let me know on [Twitter](https://twitter.com/G_HidalgoGadea) if you found this guide useful or would like to have a more detailed discussion on any of the methods used above.*
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="g.hidalgogadea" data-description="Support me on Buy me a coffee!" data-message="Thanks for visiting! If you like the website, consider buying me a coffee. Add a note and we could have it together via video call." data-color="#FFDD00" data-position="Right" data-x_margin="18" data-y_margin="18"></script>

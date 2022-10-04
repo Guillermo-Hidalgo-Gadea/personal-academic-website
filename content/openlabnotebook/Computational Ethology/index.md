@@ -75,3 +75,5 @@ Access the course handbook from [here](https://guillermo-hidalgo-gadea.github.io
 - Nath, T., Mathis, A., Chen, A. C., Patel, A., Bethge, M., & Mathis, M. W. (2019). Using DeepLabCut for 3D markerless pose estimation across species and behaviors. Nature Protocols, 14(7), 2152–2176. https://doi.org/10.1038/s41596-019-0176-0
 
 - Pereira, T. D., Shaevitz, J. W., & Murthy, M. (2020). Quantifying behavior to understand the brain. Nature Neuroscience, 23(12), 1537–1549. https://doi.org/10.1038/s41593-020-00734-z
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="g.hidalgogadea" data-description="Support me on Buy me a coffee!" data-message="Thanks for visiting! If you like the website, consider buying me a coffee. Add a note and we could have it together via video call." data-color="#FFDD00" data-position="Right" data-x_margin="18" data-y_margin="18"></script>

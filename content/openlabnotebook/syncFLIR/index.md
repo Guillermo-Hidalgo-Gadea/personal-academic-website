@@ -86,3 +86,6 @@ SyncFLIR is distributed under the MIT License. See [`LICENSE`](https://gitlab.ru
 The development of syncFLIR was carried out at the Institute of Cognitive Neuroscience (IKN), Department of Biopsychology at the Ruhr-University Bochum and supported by the German Research Foundation DFG in the context of funding the Research Training Group “Situated Cognition” (GRK 2185/1). *Original: Gefördert durch die Deutsche Forschungsgemeinschaft (DFG) - Projektnummer GRK 2185/1*.
 
 *Let me know on [Twitter](https://twitter.com/G_HidalgoGadea) if you found this useful or would like to have a more detailed discussion on any of the methods used above.*
+
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="g.hidalgogadea" data-description="Support me on Buy me a coffee!" data-message="Thanks for visiting! If you like the website, consider buying me a coffee. Add a note and we could have it together via video call." data-color="#FFDD00" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
