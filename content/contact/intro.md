@@ -14,7 +14,7 @@ design:
 # Optional header image (relative to `static/media/` folder).
 header: 
   caption: 
-  image: "library.png"
+  image: "teaching.png"
   preview_only: true
 ---
 
