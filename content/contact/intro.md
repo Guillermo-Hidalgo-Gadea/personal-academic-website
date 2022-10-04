@@ -12,9 +12,9 @@ design:
   background:
     # Name of image in `assets/media/`.
     image: teaching.png
-    image_size: actual
-    image_parallax: true
+    image_size: cover
+    image_parallax: false
 
 ---
 
-<iframe frameborder="0" width="100%" height="600"></iframe>
+<iframe frameborder="0" width="100%" height="500"></iframe>
