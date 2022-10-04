@@ -6,11 +6,13 @@ profile: true
 author: admin
 # ... Put Your Section Options Here (title etc.) ...
 weight: 1  # section position on page
+banner:
+  image: "teaching.png"
 design:
   columns: '1'
   background:
     # Name of image in `assets/media/`.
-    image: teaching.jpg
+    image: teaching.png
 # <div class="article-header"><img src="/media/teaching.png" class="article-banner" alt=""></div>
 ---
 
