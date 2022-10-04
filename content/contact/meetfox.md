@@ -11,4 +11,4 @@ design:
   columns: '1'
 ---
 
-<iframe frameborder="0" width="100%" height="720" src="https://meetfox.com/en/e/guillermo-hidalgo-gadea/borderless"></iframe>
+<iframe style="background: #FFFFFF;" frameborder="0" width="100%" height="900" src="https://meetfox.com/en/e/guillermo-hidalgo-gadea/borderless"></iframe>
