@@ -12,7 +12,7 @@ design:
   background:
     # Name of image in `assets/media/`.
     image: teaching.png
-    image_size: contain
+    image_size: actual
     image_parallax: true
     text_color_light: false
 ---
