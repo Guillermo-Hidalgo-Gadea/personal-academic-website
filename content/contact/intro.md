@@ -1,6 +1,6 @@
 ---
 widget: blank
-headless: false
+headless: true
 active: true
 profile: true 
 author: admin
@@ -9,11 +9,7 @@ weight: 1  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-# Optional header image (relative to `static/media/` folder).
-header: 
-  caption: 
-  image: "teaching.png"
-  preview_only: true
+
 ---
 
 <div class="article-header"><img src="/media/teaching.png" class="article-banner" alt=""></div>

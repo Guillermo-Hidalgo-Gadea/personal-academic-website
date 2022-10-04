@@ -7,8 +7,12 @@ author: admin
 # ... Put Your Section Options Here (title etc.) ...
 weight: 2  # section position on page
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  # Use a 1-column layout
+  columns: "1"
+  # Use a dark navy background with light text.
+  background:
+    color: 'white'
+    text_color_light: true
 ---
 
-<iframe style="background: #FFFFFF;" frameborder="0" width="100%" height="900" src="https://meetfox.com/en/e/guillermo-hidalgo-gadea/borderless"></iframe>
+<iframe frameborder="0" width="100%" height="100%" src="https://meetfox.com/en/e/guillermo-hidalgo-gadea/borderless"></iframe>
