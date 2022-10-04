@@ -7,12 +7,12 @@ author: admin
 # ... Put Your Section Options Here (title etc.) ...
 weight: 1  # section position on page
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-
+  background:
+    # Name of image in `assets/media/`.
+    image: teaching.jpg
+# <div class="article-header"><img src="/media/teaching.png" class="article-banner" alt=""></div>
 ---
-
-<div class="article-header"><img src="/media/teaching.png" class="article-banner" alt=""></div>
 
 # Book a Scientist
 

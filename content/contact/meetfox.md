@@ -15,4 +15,4 @@ design:
     text_color_light: true
 ---
 
-<iframe frameborder="0" width="100%" height="100%" src="https://meetfox.com/en/e/guillermo-hidalgo-gadea/borderless"></iframe>
+<iframe frameborder="0" width="100%" height="800" src="https://meetfox.com/en/e/guillermo-hidalgo-gadea/borderless"></iframe>
