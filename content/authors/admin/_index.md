@@ -50,6 +50,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/g_hidalgogadea?
+- icon: video
+  icon_pack: fas
+  link: https://guillermohidalgogadea.com/contact/#book-a-scientist
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Cb42f0cAAAAJ&hl=de
@@ -68,6 +71,9 @@ social:
 - icon: rss
   icon_pack: fas
   link: https://guillermohidalgogadea.alwaysdata.net
+- icon: mug-hot
+  icon_pack: fas
+  link: https://www.buymeacoffee.com/g.hidalgogadea
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
