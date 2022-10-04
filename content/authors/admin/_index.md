@@ -52,7 +52,7 @@ social:
   link: https://twitter.com/g_hidalgogadea?
 - icon: video
   icon_pack: fas
-  link: https://guillermohidalgogadea.com/contact/#book-a-scientist
+  link: /contact/#book-a-scientist
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Cb42f0cAAAAJ&hl=de
