@@ -3,6 +3,7 @@ widget: blank
 headless: true
 active: true
 profile: true 
+title: On Twitter
 author: admin
 # ... Put Your Section Options Here (title etc.) ...
 weight: 4  # section position on page
@@ -11,4 +12,4 @@ design:
   columns: '2'
 ---
 
-<a class="twitter-timeline" data-lang="en" data-width="60%" data-height="900" data-theme="dark" href="https://twitter.com/G_HidalgoGadea?ref_src=twsrc%5Etfw">Tweets by G_HidalgoGadea</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-lang="en" data-width="100%" data-height="900" data-theme="dark" href="https://twitter.com/G_HidalgoGadea?ref_src=twsrc%5Etfw">Tweets by G_HidalgoGadea</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
