@@ -68,12 +68,6 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Guillermo_Hidalgo_Gadea
-- icon: rss
-  icon_pack: fas
-  link: https://guillermohidalgogadea.alwaysdata.net
-- icon: mug-hot
-  icon_pack: fas
-  link: https://www.buymeacoffee.com/g.hidalgogadea
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -81,10 +75,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Guillermo Hidalgo Gadea is a doctoral researcher of embodied cognition and animal behavior working with pigeons at the Institute of Cognitive Neuroscience in Bochum. His research interests include comparative psychology, computational neuroethology and machine learning. He attained a M.Sc. at the University of Stirling working on numerical cognition with Chimpanzees, Lemurs and Psychology Students. He first moved from Spain to Germany to study Physics at the Technical University Dortmund and then changed his area of studies to Psychology at the University of Wuppertal were he attained his B.Sc. training machine learning models for microsleep detection in fatigued car drivers.
+I am a doctoral researcher in comparative cognition and computational neuroethology, currently studying pigeon behavior at the Institute of Cognitive Neuroscience in Bochum, Germany.
 
-He has successfully applied frequentist and bayesian analysis methods as well as machine learning approaches, and now shares his acquired taste for exploratory data analysis as an independent Scientific and Statistical Consultant for businesses and students of all backgrounds.
+During my Master's degree in Psychological Research Methods I worked on numerical cognition in Chimpanzees, Lemurs, and Humans. My Bachelor's degree focused on signal processing and machine learning models for sleep detection in fatigued car drivers.
 
-Guillermo's PhD project is currently funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG) Research Training Group Situated Cognition - grant number GRK-2185.
-
-He is engaged to [Simone Becker](http://simonebecker.dance).
+Beyond my academic research, I work as an independent Statistical Consultant and Research Software Engineer in academic and industrial projects.
